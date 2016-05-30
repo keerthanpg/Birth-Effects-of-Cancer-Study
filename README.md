@@ -1,1 +1,1 @@
-# MergeScorecard
+This is the repository that contains resources for the pre-processing of IARC, Scorecard and P65 data to get relational databases linked by CAS Nos.
