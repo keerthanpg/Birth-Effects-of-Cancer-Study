@@ -1,13 +1,9 @@
-'''import pandas as pd
-my_dic = pd.read_excel('chemicals.xlsx', index_col=0).to_dict()
-
-for [k,v] in my_dic:
-    print k, v
-    break'''
-
 from xlrd import open_workbook
 from sets import Set
 import ast
+from csv import DictWriter
+import unicodedata
+import json
 
 book_C = open_workbook('chemicals.xlsx')
 book_RT = open_workbook('chemicalsRT.xlsx')
@@ -66,10 +62,6 @@ for row_index in xrange(1, sheet_DT.nrows):
 #print i
 #print j
 
-from csv import DictWriter
-import unicodedata
-
-
 '''def convert(input):
     if isinstance(input, dict):
         return dict((convert(key), convert(value)) for key, value in input.iteritems())
@@ -96,7 +88,7 @@ with open('Scorecard.csv','w') as outfile:
             writer.writerow(Scorecard_List[i])
             
         except :            
-            #Scorecard_List[i]['Chemical Name']=Scorecard_List[i]['Chemical Name'].decode(encoding="utf-8", errors="strict")
+            
             Scorecard_List[i]['Chemical Name']=unicodedata.normalize('NFKD', Scorecard_List[i]['Chemical Name']).encode('ascii','ignore')
                        
             try:
@@ -111,4 +103,11 @@ with open('Scorecard.csv','w') as outfile:
 for i in xrange(len(error)):
     print('Add row to Scorecard:')
     print error[i]
+
+outfile.close()
+
+with open('Scorecard.txt','w') as outfile:
+    json.dump(ScorecardList, outfile)
+
+
            
