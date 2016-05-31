@@ -10,9 +10,9 @@ XE-122,15151-09-4,P65-MC,Cancer
 "2,2',4-Trichlorobiphenyl",37680-66-3,P65-MC,"Cancer, Developmental Toxicity"
 GD-159,14041-42-0,P65-MC,Cancer
 "2,2',3,4-Tetrachlorobiphenyl",52663-59-9,P65-MC,"Cancer, Developmental Toxicity"
-ISOTRETINOIN,4759-48-2,P65,developmental toxicity
+ISOTRETINOIN,4759-48-2,P65,Developmental Toxicity
 "1,2,3,4,5,6-HEXACHLOROCYCLOHEXANE (MIXTURE OF ISOMERS)",608-73-1,P65,Cancer
-CODEINE PHOSPHATE,52-28-8,P65,developmental toxicity
+CODEINE PHOSPHATE,52-28-8,P65,Developmental Toxicity
 POLYCHLORINATED BIPHENYLS,1336-36-3,P65,"Cancer, Developmental Toxicity"
 XE-129M,13965-99-6(m),P65-MC,Cancer
 SOLUBLE NICKEL COMPOUNDS,7440-02-0(Sol),P65-MC,Cancer
@@ -34,10 +34,10 @@ CHROMYL CHLORIDE,14977-61-8,P65-MC,Cancer
 HYDROXYMETHYL MERCURY,1184-57-2,P65-MC,"Cancer, Developmental Toxicity"
 INDIUM PHOSPHIDE,22398-80-7,P65,Cancer
 NICKEL COMPOUNDS,NDB000,P65,Cancer
-ERGOTAMINE TARTRATE,379-79-3,P65,developmental toxicity
-TOLUENE,108-88-3,P65,developmental toxicity
+ERGOTAMINE TARTRATE,379-79-3,P65,Developmental Toxicity
+TOLUENE,108-88-3,P65,Developmental Toxicity
 "2,2',3,3',4,4',6-HEPTACHLOROBIPHENYL (PCB-171)",52663-71-5,P65-MC,"Cancer, Developmental Toxicity"
-HISTRELIN ACETATE,EDF-344,P65,developmental toxicity
+HISTRELIN ACETATE,EDF-344,P65,Developmental Toxicity
 "2,2',3,4,4'-Pentachlorobiphenyl",65510-45-4,P65-MC,"Cancer, Developmental Toxicity"
 5-NITRO-O-ANISIDINE,99-59-2,P65,Cancer
 3-CHLOROBIPHENYL (PCB-2),2051-61-8,P65-MC,"Cancer, Developmental Toxicity"
@@ -53,7 +53,7 @@ PU-240,14119-33-6,P65-MC,Cancer
 "2,3',4,4'-TETRACHLOROBIPHENYL (PCB-66)",32598-10-0,P65-MC,"Cancer, Developmental Toxicity"
 "CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",196869.0,P65,"Cancer, Developmental Toxicity"
 HEPTA-PCB,28655-71-2,P65-MC,"Cancer, Developmental Toxicity"
-METHIMAZOLE,60-56-0,P65,developmental toxicity
+METHIMAZOLE,60-56-0,P65,Developmental Toxicity
 IPRODIONE,36734-19-7,P65,Cancer
 NICKEL AMMONIUM SULFATE,15699-18-0,P65-MC,Cancer
 "2,3,4,4',6-Pentachlorobiphenyl",74472-38-1,P65-MC,"Cancer, Developmental Toxicity"
@@ -62,7 +62,7 @@ CLOBETASOL PROPIONATE,25122-46-7,P65,"Reproductive Toxicity, Developmental Toxic
 BR-82,14686-69-2,P65-MC,Cancer
 CADMIUM HEXAFLUOROSILICATE,17010-21-8,P65-MC,Cancer
 "2,2',3,4',5,6,6'-Heptachlorobiphenyl",74487-85-7,P65-MC,"Cancer, Developmental Toxicity"
-FILGRASTIM,121181-53-1,P65,developmental toxicity
+FILGRASTIM,121181-53-1,P65,Developmental Toxicity
 "HEXACHLORINATED DIBENZOFURAN, 1,2,3,7,8,9-",72918-21-9,P65-MC,Cancer
 ALDRIN,309-00-2,P65,Cancer
 Zileuton,111406-87-2,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
@@ -78,29 +78,29 @@ TOLUENE DIISOCYANATE (MIXED ISOMERS),26471-62-5,P65,Cancer
 "2,4-DIAMINOANISOLE",615-05-4,P65,Cancer
 CHROMIUM (CR6+),7440-47-3(Cr6+),P65-MC,Cancer
 AMINOPTERIN,54-62-6,P65,"Reproductive Toxicity, Developmental Toxicity"
-BECLOMETHASONE DIPROPIONATE,1327543.0,P65,developmental toxicity
+BECLOMETHASONE DIPROPIONATE,1327543.0,P65,Developmental Toxicity
 N-NITROSOMORPHOLINE,59-89-2,P65,Cancer
 CHLORDANE,57-74-9,P65,Cancer
 "2,6-DICHLOROBIPHENYL (PCB-10)",33146-45-1,P65-MC,"Cancer, Developmental Toxicity"
-FULMINATE DE MERCURE,628-86-4,P65-MC,developmental toxicity
+FULMINATE DE MERCURE,628-86-4,P65-MC,Developmental Toxicity
 AG-105,14928-14-4,P65-MC,Cancer
 BI-207,13982-38-2,P65-MC,Cancer
 BENZO(A)PYRENE,50-32-8,P65,Cancer
 "1,2-DICHLOROPROPANE",78-87-5,P65,Cancer
 DAMINOZIDE,1596-84-5,P65,Cancer
-PHENYLMERCURIC ACETATE,62-38-4,P65-MC,developmental toxicity
+PHENYLMERCURIC ACETATE,62-38-4,P65-MC,Developmental Toxicity
 COCAINE,50-36-2,P65,"Reproductive Toxicity, Developmental Toxicity"
 PU-244+D,14119-34-7(+D),P65-MC,Cancer
 CYCLOPHOSPHAMIDE (HYDRATED),6055-19-2,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 NB-97M,18496-04-3(m),P65-MC,Cancer
 AM-241,14596-10-2,P65-MC,Cancer
 CITRUS RED NO.2,6358-53-8,P65,Cancer
-NABAM,142-59-6,P65,developmental toxicity
-PENTOBARBITAL SODIUM,57-33-0,P65,developmental toxicity
+NABAM,142-59-6,P65,Developmental Toxicity
+PENTOBARBITAL SODIUM,57-33-0,P65,Developmental Toxicity
 RB-88,14928-36-0,P65-MC,Cancer
 BROMATE,15541-45-4,P65,Cancer
-FLUTICASONE PROPIONATE,80474-14-2,P65,developmental toxicity
-TRIMETREXATE GLUCURONATE,82952-64-5,P65,developmental toxicity
+FLUTICASONE PROPIONATE,80474-14-2,P65,Developmental Toxicity
+TRIMETREXATE GLUCURONATE,82952-64-5,P65,Developmental Toxicity
 DY-165,13967-64-1,P65-MC,Cancer
 STYRENE OXIDE,96-09-3,P65,Cancer
 "DIBENZ[A,J]ACRIDINE",224-42-0,P65,Cancer
@@ -114,7 +114,7 @@ PB-203,14687-25-3,P65-MC,Cancer
 COMBINED RADIUM 226 & 228,EDF-206,P65-MC,Cancer
 "1,3-DICHLOROPROPENE (MIXED ISOMERS)",542-75-6,P65,Cancer
 SN-125,14683-08-0,P65-MC,Cancer
-METHACYCLINE HYDROCHLORIDE,3963-95-9,P65,developmental toxicity
+METHACYCLINE HYDROCHLORIDE,3963-95-9,P65,Developmental Toxicity
 BA-137M,13981-97-0(m),P65-MC,Cancer
 CM-243,15757-87-6,P65-MC,Cancer
 "2,2',3,6,6'-Pentachlorobiphenyl",73575-54-9,P65-MC,"Cancer, Developmental Toxicity"
@@ -129,14 +129,14 @@ IR-190,14981-91-0,P65-MC,Cancer
 "2,3',5',6-Tetrachlorobiphenyl",74338-23-1,P65-MC,"Cancer, Developmental Toxicity"
 ACETALDEHYDE,75-07-0,P65,Cancer
 ADRIAMYCIN,23214-92-8,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
-FLUOROURACIL,51-21-8,P65,developmental toxicity
+FLUOROURACIL,51-21-8,P65,Developmental Toxicity
 PANFURAN S,794-93-4,P65,Cancer
 "2,2',6,6'-TETRACHLOROBIPHENYL (PCB-54)",15968-05-5,P65-MC,"Cancer, Developmental Toxicity"
 TE-125M,14390-73-9(m),P65-MC,Cancer
 "2,4-DIAMINOANISOLE SULFATE",39156-41-7,P65,Cancer
 DELTA-LINDANE,319-86-8,P65-MC,Cancer
 ETHYLENE OXIDE,75-21-8,P65,"Cancer, Reproductive Toxicity"
-mebendazole,31431-39-7,P65,developmental toxicity
+mebendazole,31431-39-7,P65,Developmental Toxicity
 "2,3,3',4,4',5',6-Heptachlorobiphenyl",74472-50-7,P65-MC,"Cancer, Developmental Toxicity"
 ETHYLENE GLYCOL MONOETHYL ETHER,110-80-5,P65,"Reproductive Toxicity, Developmental Toxicity"
 HYDRAZINE SULFATE,10034-93-2,P65,Cancer
@@ -144,16 +144,16 @@ HO-166,13967-65-2,P65-MC,Cancer
 METHYL MERCURY COMPOUNDS,EDF-127,P65,"Cancer, Developmental Toxicity"
 OCTACHLORODIBENZO-P-DIOXIN,3268-87-9,P65-MC,Cancer
 CADMIUM BROMIDE,7789-42-6,P65-MC,Cancer
-MERCURIC BROMIDE,7789-47-1,P65-MC,developmental toxicity
+MERCURIC BROMIDE,7789-47-1,P65-MC,Developmental Toxicity
 "2,2',3,4,5',6-Hexachlorobiphenyl",68194-14-9,P65-MC,"Cancer, Developmental Toxicity"
 "3,3',4,5,5'-Pentachlorobiphenyl",39635-33-1,P65-MC,"Cancer, Developmental Toxicity"
 PR-144M,14119-05-2(m),P65-MC,Cancer
-SECOBARBITAL SODIUM,309-43-3,P65,developmental toxicity
+SECOBARBITAL SODIUM,309-43-3,P65,Developmental Toxicity
 RH-103M,7440-16-6(m),P65-MC,Cancer
 DIURON,330-54-1,P65,Cancer
-MEPROBAMATE,57-53-4,P65,developmental toxicity
-UROFOLLITROPIN,97048-13-0,P65,developmental toxicity
-PARAMETHADIONE,115-67-3,P65,developmental toxicity
+MEPROBAMATE,57-53-4,P65,Developmental Toxicity
+UROFOLLITROPIN,97048-13-0,P65,Developmental Toxicity
+PARAMETHADIONE,115-67-3,P65,Developmental Toxicity
 SN-113,13966-06-8,P65-MC,Cancer
 "3,3'-DIMETHOXYBENZIDINE DIHYDROCHLORIDE",20325-40-0,P65,Cancer
 KR-90,15741-13-6,P65-MC,Cancer
@@ -163,16 +163,16 @@ PENTACHLORODIBENZOFURAN,30402-15-4,P65-MC,Cancer
 "2,3',4,4',5',6-Hexachlorobiphenyl",59291-65-5,P65-MC,"Cancer, Developmental Toxicity"
 C.I. BASIC RED 9 MONOHYDROCHLORIDE,569-61-9,P65,Cancer
 Aroclor 1252,89577-78-6,P65-MC,"Cancer, Developmental Toxicity"
-METHYLTESTOSTERONE,58-18-4,P65,developmental toxicity
-PLICAMYCIN,18378-89-7,P65,developmental toxicity
-DIETHYL MERCURY,627-44-1,P65-MC,developmental toxicity
+METHYLTESTOSTERONE,58-18-4,P65,Developmental Toxicity
+PLICAMYCIN,18378-89-7,P65,Developmental Toxicity
+DIETHYL MERCURY,627-44-1,P65-MC,Developmental Toxicity
 "2,3',4,4',5-PENTACHLOROBIPHENYL (PCB-118)",31508-00-6,P65-MC,"Cancer, Developmental Toxicity"
-NORGESTREL,6533-00-2,P65,developmental toxicity
+NORGESTREL,6533-00-2,P65,Developmental Toxicity
 "2,3',4,5'-Tetrachlorobiphenyl",73575-52-7,P65-MC,"Cancer, Developmental Toxicity"
 210-POLONIUM,13981-52-7,P65-MC,Cancer
 O-PHENYLENEDIAMINE,95-54-5,P65,Cancer
 "3,3',5,5'-TETRACHLOROBIPHENYL (PCB-80)",33284-52-5,P65-MC,"Cancer, Developmental Toxicity"
-THIMEROSAL,54-64-8,P65-MC,developmental toxicity
+THIMEROSAL,54-64-8,P65-MC,Developmental Toxicity
 LEAD THIOCYANATE,592-87-0,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 "2,2',4,5',6-Pentachlorobiphenyl",60145-21-3,P65-MC,"Cancer, Developmental Toxicity"
 THIOUREA,62-56-6,P65,Cancer
@@ -182,8 +182,8 @@ FOLPET,133-07-3,P65,Cancer
 "2,3,4,6-Tetrachlorobiphenyl",54230-22-7,P65-MC,"Cancer, Developmental Toxicity"
 "HEXACHLORINATED DIBENZOFURAN, 2,3,4,6,7,8-",60851-34-5,P65-MC,Cancer
 AM-242M,13981-54-9(m),P65-MC,Cancer
-MERCURIC SULFATE,7783-35-9,P65-MC,developmental toxicity
-CHLORDIAZEPOXIDE HYDROCHLORIDE,438-41-5,P65,developmental toxicity
+MERCURIC SULFATE,7783-35-9,P65-MC,Developmental Toxicity
+CHLORDIAZEPOXIDE HYDROCHLORIDE,438-41-5,P65,Developmental Toxicity
 CERAMIC FIBERS  ( AIRBORNE PARTICLES OF RESPIRABLE SIZE),1056.0,P65,Cancer
 TC-99,14133-76-7,P65-MC,Cancer
 "3,4,4'-Trichlorobiphenyl",38444-90-5,P65-MC,"Cancer, Developmental Toxicity"
@@ -191,10 +191,10 @@ DIBENZOFURANS (CHLORINATED),1080.0,P65,Cancer
 ER-171,14391-45-8,P65-MC,Cancer
 2-NITROPROPANE,79-46-9,P65,Cancer
 ENVIRONMENTAL TOBACCO SMOKE,1090.0,P65,Cancer
-TRIMETHADIONE,127-48-0,P65,developmental toxicity
+TRIMETHADIONE,127-48-0,P65,Developmental Toxicity
 DINITROBENZENE,25154-54-5,P65-MC,Reproductive Toxicity
 4-AMINOAZOBENZENE,60-09-3,P65,Cancer
-LITHIUM CARBONATE,554-13-2,P65,developmental toxicity
+LITHIUM CARBONATE,554-13-2,P65,Developmental Toxicity
 "2,2',3,4,5,6-Hexachlorobiphenyl",41411-61-4,P65-MC,"Cancer, Developmental Toxicity"
 ETHYL BROMIDE,74-96-4,P65,Cancer
 DIAMINOTOLUENE (MIXED ISOMERS),25376-45-8,P65,Cancer
@@ -207,25 +207,25 @@ RADIONUCLIDES,1165.0,P65,Cancer
 "3,4,4',5-Tetrachlorobiphenyl",70362-50-4,P65-MC,"Cancer, Developmental Toxicity"
 SILICA,1175.0,P65,Cancer
 "2,4,5-TRIMETHYLANILINE AND ITS STRONG ACID SALTS",EDF-218,P65,Cancer
-TRIBUTYLTIN METHACRYLATE,2155-70-6,P65,developmental toxicity
+TRIBUTYLTIN METHACRYLATE,2155-70-6,P65,Developmental Toxicity
 TALC CONTAINING ASBESTIFORM FIBERS,1190.0,P65,Cancer
-ACETAZOLAMIDE,59-66-5,P65,developmental toxicity
+ACETAZOLAMIDE,59-66-5,P65,Developmental Toxicity
 P-CHLOROANILINE.HCL,20265-96-7,P65,Cancer
 5-CHLORO-O-TOLUIDINE AND ITS STRONG ACID SALTS,EDF-216,P65,Cancer
 QUINOLINE AND ITS STRONG ACID SALTS,EDF-217,P65,Cancer
 KR-87,14809-68-8,P65-MC,Cancer
 "O,P-DDD",53-19-0,P65-MC,Cancer
 2-AMINONAPHTHALENE,91-59-8,P65,Cancer
-TRIENTINE HYDROCHLORIDE,38260-01-4,P65,developmental toxicity
+TRIENTINE HYDROCHLORIDE,38260-01-4,P65,Developmental Toxicity
 "2,8-DICHLORODIBENZOFURAN",5409-83-6,P65-MC,Cancer
 NP-238,15766-25-3,P65-MC,Cancer
 TC-96,14808-44-7,P65-MC,Cancer
-WARFARIN AND SALTS,81-81-2,P65,developmental toxicity
+WARFARIN AND SALTS,81-81-2,P65,Developmental Toxicity
 "2,2',3,3',4,6,6'-Heptachlorobiphenyl",52663-65-7,P65-MC,"Cancer, Developmental Toxicity"
-PYRIMETHAMINE,58-14-0,P65,developmental toxicity
+PYRIMETHAMINE,58-14-0,P65,Developmental Toxicity
 "2,3,3',5-Tetrachlorobiphenyl",70424-67-8,P65-MC,"Cancer, Developmental Toxicity"
 CALCIUM ARSENITE,52740-16-6,P65-MC,"Cancer, Developmental Toxicity"
-BUTABARBITAL SODIUM,143-81-7,P65,developmental toxicity
+BUTABARBITAL SODIUM,143-81-7,P65,Developmental Toxicity
 "3,4'-Dichlorobiphenyl",2974-90-5,P65-MC,"Cancer, Developmental Toxicity"
 THORIUM DIOXIDE,1314-20-1,P65,Cancer
 "NICKEL, TETRAKIS(TRIS(METHYLPHENYL) PHOSPHITE-P)- (9CI)",35884-66-3,P65-MC,Cancer
@@ -236,7 +236,7 @@ PROMETHIUM-148,14683-19-3,P65-MC,Cancer
 "2,4,4'-TRICHLOROBIPHENYL (PCB-28)",7012-37-5,P65-MC,"Cancer, Developmental Toxicity"
 N-NITROSONORNICOTINE,16543-55-8,P65,Cancer
 Vinyl monohalides,EDF-561,P65-MC,Cancer
-LORAZEPAM,846-49-1,P65,developmental toxicity
+LORAZEPAM,846-49-1,P65,Developmental Toxicity
 SM-153,15766-00-4,P65-MC,Cancer
 COAL TARS,8007-45-2,P65-MC,Cancer
 NICKELOUS NITRATE,13138-45-9,P65-MC,Cancer
@@ -248,7 +248,7 @@ BERYLLIUM HYDROXIDE,13327-32-7,P65-MC,Cancer
 I-129,15046-84-1,P65-MC,Cancer
 V-48,14331-97-6,P65-MC,Cancer
 MONOCROTALINE,315-22-0,P65,Cancer
-TRILOSTANE,13647-35-3,P65,developmental toxicity
+TRILOSTANE,13647-35-3,P65,Developmental Toxicity
 NB-95M,13967-76-5(m),P65-MC,Cancer
 SR-85,13967-73-2,P65-MC,Cancer
 "2,2',3,3',4,5-HEXACHLOROBIPHENYL (PCB-129)",55215-18-4,P65-MC,"Cancer, Developmental Toxicity"
@@ -269,10 +269,10 @@ NICKEL CHLORIDE,7718-54-9,P65-MC,Cancer
 carboxymethylnitrosourea,60391-92-6,P65,Cancer
 NICKEL OXIDE,1313-99-1,P65,Cancer
 "THORIUM, ISOTOPE OF MASS 228",14274-82-9,P65-MC,Cancer
-LOVASTATIN,75330-75-5,P65,developmental toxicity
+LOVASTATIN,75330-75-5,P65,Developmental Toxicity
 U-232,14158-29-3,P65-MC,Cancer
 BI-213,15776-20-2,P65-MC,Cancer
-"RETINOL / RETINYL ESTERS,  WHEN IN DAILY DOSAGE IN EXCESS OF 10,000 IU,OR 3,000 RETINOL EQUIVALENTS",68-26-8,P65,developmental toxicity
+"RETINOL / RETINYL ESTERS,  WHEN IN DAILY DOSAGE IN EXCESS OF 10,000 IU,OR 3,000 RETINOL EQUIVALENTS",68-26-8,P65,Developmental Toxicity
 "2,4-DIAMINOTOLUENE",95-80-7,P65,Cancer
 LEAD SILICATE,11120-22-2,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 BETA-BUTYROLACTONE,3068-88-0,P65,Cancer
@@ -288,7 +288,7 @@ SC-48,14391-86-7,P65-MC,Cancer
 SB-126M,15756-32-8(m),P65-MC,Cancer
 ACETAMIDE,60-35-5,P65,Cancer
 I-125,14158-31-7,P65-MC,Cancer
-TRIAZOLAM,28911-01-5,P65,developmental toxicity
+TRIAZOLAM,28911-01-5,P65,Developmental Toxicity
 OCHRATOXIN A,303-47-9,P65,Cancer
 BERYLLIUM NITRATE,13597-99-4,P65-MC,Cancer
 ESTRADIOL-17B,50-28-2,P65,Cancer
@@ -321,7 +321,7 @@ DICHLOROETHANE,1300-21-6,P65-MC,Cancer
 PONCEAU 3R,608016.0,P65,Cancer
 RADIUM-224,13233-32-4,P65-MC,Cancer
 "2,2',3,4,5,5',6-HEPTACHLOROBIPHENYL (PCB-185)",52712-05-7,P65-MC,"Cancer, Developmental Toxicity"
-ORGANIC MERCURY COMPOUNDS,EDF-173,P65-MC,developmental toxicity
+ORGANIC MERCURY COMPOUNDS,EDF-173,P65-MC,Developmental Toxicity
 ALKYL LEAD COMPOUNDS,EDF-171,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 "2,2',3,4,6,6'-Hexachlorobiphenyl",74472-40-5,P65-MC,"Cancer, Developmental Toxicity"
 ALPHA-LINDANE,319-84-6,P65-MC,Cancer
@@ -329,14 +329,14 @@ Diflunisal,22494-42-4,P65,"Reproductive Toxicity, Developmental Toxicity"
 TL-204,13968-51-9,P65-MC,Cancer
 "2,2',3,4',5',6-HEXACHLOROBIPHENYL (PCB-149)",38380-04-0,P65-MC,"Cancer, Developmental Toxicity"
 PHENOBARBITAL,50-06-6,P65,Cancer
-TRIFORINE,26644-46-2,P65,developmental toxicity
+TRIFORINE,26644-46-2,P65,Developmental Toxicity
 PENTA-PCB,25429-29-2,P65-MC,"Cancer, Developmental Toxicity"
 4-DIMETHYLAMINOAZOBENZENE,60-11-7,P65,Cancer
 "TOLUENE-2,6-DIISOCYANATE",91-08-7,P65-MC,Cancer
 CLOFIBRATE,637-07-0,P65,Cancer
 "7H-DIBENZO[C,G]CARBAZOLE",194-59-2,P65,Cancer
 "ALCOHOLIC BEVERAGES, WHEN ASSOCIATED WITH ALCOHOL  ABUSE",EDF-008,P65,Cancer
-BENZODIAZEPINES,EDF-007,P65,developmental toxicity
+BENZODIAZEPINES,EDF-007,P65,Developmental Toxicity
 ANABOLIC STEROIDS,EDF-006,P65,Reproductive Toxicity
 NICKEL SUBSULFIDE,12035-72-2,P65,Cancer
 "2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN (TCDD)",1746-01-6,P65,"Cancer, Developmental Toxicity"
@@ -363,7 +363,7 @@ O-ANISIDINE HYDROCHLORIDE,134-29-2,P65,Cancer
 SR-85M,13967-73-2(m),P65-MC,Cancer
 PU-241,14119-32-5,P65-MC,Cancer
 ACETYLSALICYLIC ACID,50-78-2,P65,"Reproductive Toxicity, Developmental Toxicity"
-NAFARELIN ACETATE,86220-42-0,P65,developmental toxicity
+NAFARELIN ACETATE,86220-42-0,P65,Developmental Toxicity
 "2,2',3,4,4',6,6'-Heptachlorobiphenyl",74472-48-3,P65-MC,"Cancer, Developmental Toxicity"
 "SODIUM, ISOTOPE OF MASS 22",13966-32-0,P65-MC,Cancer
 "1,2-DIPHENYLHYDRAZINE",122-66-7,P65,Cancer
@@ -373,20 +373,20 @@ FURMECYCLOX,60568-05-0,P65,Cancer
 Aroclor (unspecified),12767-79-2,P65-MC,"Cancer, Developmental Toxicity"
 N-METHYLOLACRYLAMIDE,924-42-5,P65,Cancer
 N-NITROSODIETHANOLAMINE,1116-54-7,P65,Cancer
-NICOTINE AND SALTS,54-11-5,P65,developmental toxicity
+NICOTINE AND SALTS,54-11-5,P65,Developmental Toxicity
 HG-203,13982-78-0,P65-MC,Cancer
 "1,4-DICHLOROBENZENE",106-46-7,P65,Cancer
 "2,2',3,3',4,5',6-Heptachlorobiphenyl",40186-70-7,P65-MC,"Cancer, Developmental Toxicity"
 ND-149,15749-81-2,P65-MC,Cancer
 TC-95M,14809-56-4(m),P65-MC,Cancer
 NITROGEN MUSTARD HYDROCHLORIDE,55-86-7,P65,"Cancer, Developmental Toxicity"
-MENOTROPINS,9002-68-0,P65,developmental toxicity
+MENOTROPINS,9002-68-0,P65,Developmental Toxicity
 "1,2,3,4,8-PENTACHLORODIBENZOFURAN",67517-48-0,P65-MC,Cancer
 BENZOFURAN,271-89-6,P65,Cancer
 "2,2',3,3',4,4',5,6-OCTACHLOROBIPHENYL",52663-78-2,P65-MC,"Cancer, Developmental Toxicity"
 HEXAMETHYLPHOSPHORAMIDE,680-31-9,P65,"Cancer, Reproductive Toxicity"
 AROCLOR 1016,12674-11-2,P65-MC,"Cancer, Developmental Toxicity"
-DEMECLOCYCLINE HYDROCHLORIDE (INTERNAL USE),64-73-3,P65,developmental toxicity
+DEMECLOCYCLINE HYDROCHLORIDE (INTERNAL USE),64-73-3,P65,Developmental Toxicity
 TE-131M,14683-12-6(m),P65-MC,Cancer
 "2,2',3,4,5,5'-Hexachlorobiphenyl",52712-04-6,P65-MC,"Cancer, Developmental Toxicity"
 "2,3',4',5'-Tetrachlorobiphenyl",70362-48-0,P65-MC,"Cancer, Developmental Toxicity"
@@ -398,13 +398,13 @@ ZN-65,13982-39-3,P65-MC,Cancer
 "3,3',4,4',5-PENTACHLOROBIPHENYL",57465-28-8,P65-MC,"Cancer, Developmental Toxicity"
 PU-242,13982-10-0,P65-MC,Cancer
 "TRANS-2-[(DIMETHYLAMINO)METHYLIMINO]-5-[2-5-NITRO-2-FURYL)VINYL]-1,3,4-OXADIAZOLE",55738-54-0,P65,Cancer
-MEGESTROL ACETATE,595-33-5,P65,developmental toxicity
-ANISINDIONE,117-37-3,P65,developmental toxicity
+MEGESTROL ACETATE,595-33-5,P65,Developmental Toxicity
+ANISINDIONE,117-37-3,P65,Developmental Toxicity
 TC-95,14809-56-4,P65-MC,Cancer
 CHROMIC SULFATE,10101-53-8,P65-MC,Cancer
 NORETHYNODREL,68-23-5,P65,Cancer
 EPICHLOROHYDRIN,106-89-8,P65,"Cancer, Reproductive Toxicity"
-FLUAZIFOP-BUTYL,69806-50-4,P65,developmental toxicity
+FLUAZIFOP-BUTYL,69806-50-4,P65,Developmental Toxicity
 LEAD NITRATE,10099-74-8,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 Y-90,10098-91-6,P65-MC,Cancer
 METHYL IODIDE,74-88-4,P65,Cancer
@@ -454,8 +454,8 @@ AC-227+D,14952-40-0(+D),P65-MC,Cancer
 "2,3,3',5,5'-Pentachlorobiphenyl",39635-32-0,P65-MC,"Cancer, Developmental Toxicity"
 BARIUM CHROMATE,10294-40-3,P65-MC,Cancer
 "2,2',3,4,5,6'-Hexachlorobiphenyl",68194-15-0,P65-MC,"Cancer, Developmental Toxicity"
-MERCUROUS NITRATE,10415-75-5,P65-MC,developmental toxicity
-DANAZOL,17230-88-5,P65,developmental toxicity
+MERCUROUS NITRATE,10415-75-5,P65-MC,Developmental Toxicity
+DANAZOL,17230-88-5,P65,Developmental Toxicity
 POTASSIUM CHROMATE,7789-00-6,P65-MC,Cancer
 SULFALLATE,95-06-7,P65,Cancer
 P-DINITROBENZENE,100-25-4,P65,Reproductive Toxicity
@@ -464,23 +464,23 @@ XE-125,13994-18-8,P65-MC,Cancer
 1-ALLYL-4-METHOXYBENZENE,140-67-0,P65,Cancer
 "2,3,3',4',5,6-Hexachlorobiphenyl",74472-44-9,P65-MC,"Cancer, Developmental Toxicity"
 4-VINYLCYCLOHEXENE,100-40-3,P65,Cancer
-DOXYCYCLINE HYCLATE (INTERNAL USE),24390-14-5,P65,developmental toxicity
+DOXYCYCLINE HYCLATE (INTERNAL USE),24390-14-5,P65,Developmental Toxicity
 U-240,15687-53-3,P65-MC,Cancer
 "2,2',3,3',5,5',6,6'-OCTACHLOROBIPHENYL (PCB-202)",2136-99-4,P65-MC,"Cancer, Developmental Toxicity"
 XE-135,14995-62-1,P65-MC,Cancer
 "THORIUM, ISOTOPE OF MASS 230",14269-63-7,P65-MC,Cancer
 C-11,14333-33-6,P65-MC,Cancer
 METHYL MERCURY,22967-92-6,P65-MC,"Cancer, Developmental Toxicity"
-ALKYL MERCURY COMPOUNDS,7439-97-6(Alk),P65-MC,developmental toxicity
+ALKYL MERCURY COMPOUNDS,7439-97-6(Alk),P65-MC,Developmental Toxicity
 pimozide,2062-78-4,P65,"Reproductive Toxicity, Developmental Toxicity"
-DICHLOROPHENE,97-23-4,P65,developmental toxicity
+DICHLOROPHENE,97-23-4,P65,Developmental Toxicity
 BETA-PROPIOLACTONE,57-57-8,P65,Cancer
 BERYLLIUM PHOSPHATE,13598-15-7,P65-MC,Cancer
 F-18,13981-56-1,P65-MC,Cancer
 PB-210+D,14255-04-0(+D),P65-MC,Cancer
 "2,2',4,5,5'-PENTACHLOROBIPHENYL (PCB-101)",37680-73-2,P65-MC,"Cancer, Developmental Toxicity"
 "2,3',4,4',6-Pentachlorobiphenyl",56558-17-9,P65-MC,"Cancer, Developmental Toxicity"
-RESMETHRIN,10453-86-8,P65,developmental toxicity
+RESMETHRIN,10453-86-8,P65,Developmental Toxicity
 AZOBENZENE,103-33-3,P65,Cancer
 N-[4-(5-NITRO-2-FURYL)-2-THIAZOLYL]ACETAMIDE,531-82-8,P65,Cancer
 AROCLOR 1268,11100-14-4,P65-MC,"Cancer, Developmental Toxicity"
@@ -503,7 +503,7 @@ RH-105M,14913-89-4(m),P65-MC,Cancer
 CHLORENDIC ACID,115-28-6,P65,Cancer
 "4,4'-METHYLENEBIS(N,N-DIMETHYL)BENZENAMINE",101-61-1,P65,Cancer
 Y-92,15751-59-4,P65-MC,Cancer
-HYDROXYUREA,127-07-1,P65,developmental toxicity
+HYDROXYUREA,127-07-1,P65,Developmental Toxicity
 TRIAZIQUONE,68-76-8,P65,Cancer
 NA-24,13982-04-2,P65-MC,Cancer
 TC-97M,15759-35-0(m),P65-MC,Cancer
@@ -516,7 +516,7 @@ DIRECT BLUE 6,2602-46-2,P65,Cancer
 PROPYLENEIMINE,75-55-8,P65,Cancer
 "1,1-DIMETHYL HYDRAZINE",57-14-7,P65,Cancer
 TRIMETHYL PHOSPHATE,512-56-1,P65,Cancer
-halobetasol propionate,66852-54-8,P65,developmental toxicity
+halobetasol propionate,66852-54-8,P65,Developmental Toxicity
 PD-107,17637-99-9,P65-MC,Cancer
 RESERPINE,50-55-5,P65,Cancer
 GLASSWOOL FIBERS (AIRBORNE PARTICLES OF RESPIRABLE SIZE),EDF-029,P65,Cancer
@@ -524,7 +524,7 @@ GLASSWOOL FIBERS (AIRBORNE PARTICLES OF RESPIRABLE SIZE),EDF-029,P65,Cancer
 "2,2',3,5,6-Pentachlorobiphenyl",73575-56-1,P65-MC,"Cancer, Developmental Toxicity"
 CS-131,14914-76-2,P65-MC,Cancer
 "DIBENZO[A,L]PYRENE",191-30-0,P65,Cancer
-ETHYL ALCOHOL IN ALCOHOLIC BEVERAGES,EDF-026,P65,developmental toxicity
+ETHYL ALCOHOL IN ALCOHOLIC BEVERAGES,EDF-026,P65,Developmental Toxicity
 PHENOXYBENZAMINE HYDROCHLORIDE,63-92-3,P65,Cancer
 BIS(2-ETHYLHEXYL)PHTHALATE,117-81-7,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 I-123,15715-08-9,P65-MC,Cancer
@@ -535,7 +535,7 @@ TETRANITROMETHANE,509-14-8,P65,Cancer
 "1,2-DIBROMOETHANE",106-93-4,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 AROCLOR 1262,37324-23-5,P65-MC,"Cancer, Developmental Toxicity"
 FUSARIN C,79748-81-5,P65,Cancer
-POTASSIUM DIMETHYLDITHIOCARBAMATE,128-03-0,P65,developmental toxicity
+POTASSIUM DIMETHYLDITHIOCARBAMATE,128-03-0,P65,Developmental Toxicity
 "2,3,3',4,5,5'-Hexachlorobiphenyl",39635-35-3,P65-MC,"Cancer, Developmental Toxicity"
 "1,2-DIBROMO-3-CHLOROPROPANE (DBCP)",96-12-8,P65,"Cancer, Reproductive Toxicity"
 D & C ORANGE NO. 17,3468-63-1,P65,Cancer
@@ -561,7 +561,7 @@ NP-237,13994-20-2,P65-MC,Cancer
 ZN-69,13982-23-5,P65-MC,Cancer
 BA-133M,13981-41-4(m),P65-MC,Cancer
 CO-57,13981-50-5,P65-MC,Cancer
-CYCLOATE,1134-23-2,P65,developmental toxicity
+CYCLOATE,1134-23-2,P65,Developmental Toxicity
 FE-55,14681-59-5,P65-MC,Cancer
 "2,2',3,4',5,5',6-HEPTACHLOROBIPHENYL (PCB-187)",52663-68-0,P65-MC,"Cancer, Developmental Toxicity"
 Cobalt sulfate heptahydrate,10026-24-1,P65,Cancer
@@ -571,7 +571,7 @@ PB-212,15092-94-1,P65-MC,Cancer
 "3,3'-DICHLOROBIPHENYL (PCB-11)",2050-67-1,P65-MC,"Cancer, Developmental Toxicity"
 "1,4-DICHLORO-2-BUTENE",764-41-0,P65,Cancer
 "2,2',4,4'-TETRACHLOROBIPHENYL (PCB-47)",2437-79-8,P65-MC,"Cancer, Developmental Toxicity"
-AMITRAZ,33089-61-1,P65,developmental toxicity
+AMITRAZ,33089-61-1,P65,Developmental Toxicity
 CALCIUM ARSENATE [2ASH3O4.2CA],7778-44-1,P65-MC,"Cancer, Developmental Toxicity"
 BISMUTH-210,14331-79-4,P65-MC,Cancer
 PHENOXYBENZAMINE,59-96-1,P65,Cancer
@@ -581,7 +581,7 @@ PHENOXYBENZAMINE,59-96-1,P65,Cancer
 NITROGEN MUSTARD N-OXIDE HYDROCHLORIDE,302-70-5,P65,Cancer
 AROCLOR 1260,11096-82-5,P65-MC,"Cancer, Developmental Toxicity"
 "2,4,6-TRICHLOROBIPHENYL (PCB-30)",35693-92-6,P65-MC,"Cancer, Developmental Toxicity"
-MINOCYCLINE HYDROCHLORIDE (INTERNAL USE),13614-98-7,P65,developmental toxicity
+MINOCYCLINE HYDROCHLORIDE (INTERNAL USE),13614-98-7,P65,Developmental Toxicity
 BERYLLIUM SULFATE TETRAHYDRATE,7787-56-6,P65-MC,Cancer
 URANIUM,7440-61-1,P65-MC,Cancer
 "2,3',4',6-Tetrachlorobiphenyl",41464-46-4,P65-MC,"Cancer, Developmental Toxicity"
@@ -595,10 +595,10 @@ CAPTAFOL,191906.0,P65,Cancer
 PHENAZOPYRIDINE,94-78-0,P65,Cancer
 CALCIUM CHROMATE,13765-19-0,P65-MC,Cancer
 DDT,50-29-3,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
-DICUMAROL,66-76-2,P65,developmental toxicity
+DICUMAROL,66-76-2,P65,Developmental Toxicity
 "2,3',5,5'-Tetrachlorobiphenyl",41464-42-0,P65-MC,"Cancer, Developmental Toxicity"
 PROMETHIUM-147,14380-75-7,P65-MC,Cancer
-ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,1407-47-2,P65,developmental toxicity
+ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,1407-47-2,P65,Developmental Toxicity
 "2,2',4,6,6'-PENTACHLOROBIPHENYL (PCB-104)",56558-16-8,P65-MC,"Cancer, Developmental Toxicity"
 CHROMIUM (III) CHROMATE,24613-89-6,P65-MC,Cancer
 RIFAMPICIN,13292-46-1,P65,"Reproductive Toxicity, Developmental Toxicity"
@@ -614,13 +614,13 @@ STANOZOLOL,10418-03-8,P65,Cancer
 "2,3,3',4',5',6-Hexachlorobiphenyl",74472-45-0,P65-MC,"Cancer, Developmental Toxicity"
 PO-216,15756-58-8,P65-MC,Cancer
 AC-227,14952-40-0,P65-MC,Cancer
-MERCURY COMPOUNDS,EDF-033,P65,developmental toxicity
-AMANTADINE HYDROCHLORIDE,665-66-7,P65,developmental toxicity
+MERCURY COMPOUNDS,EDF-033,P65,Developmental Toxicity
+AMANTADINE HYDROCHLORIDE,665-66-7,P65,Developmental Toxicity
 ETHYLENE GLYCOL MONOMETHYL ETHER,109-86-4,P65,"Reproductive Toxicity, Developmental Toxicity"
 "ORAL CONTRACEPTIVES, COMBINED",EDF-039,P65,Cancer
 BIS(ADIPONITRILE)BIS(CYANOTRIPHENYLBORATO)NICKEL,83864-02-2,P65-MC,Cancer
 "1,1,2,2-TETRACHLOROETHANE",79-34-5,P65,Cancer
-TAMOXIFEN CITRATE,54965-24-1,P65,developmental toxicity
+TAMOXIFEN CITRATE,54965-24-1,P65,Developmental Toxicity
 "2,3,4,5,6-PENTACHLOROBIPHENYL (PCB-116)",18259-05-7,P65-MC,"Cancer, Developmental Toxicity"
 "2,2',3,4',5,6'-Hexachlorobiphenyl",74472-41-6,P65-MC,"Cancer, Developmental Toxicity"
 URANIUM-233,13968-55-3,P65-MC,Cancer
@@ -628,25 +628,25 @@ URANIUM-233,13968-55-3,P65-MC,Cancer
 SB-127,13968-50-8,P65-MC,Cancer
 "2,2',3,3',4,6'-Hexachlorobiphenyl",38380-05-1,P65-MC,"Cancer, Developmental Toxicity"
 ARSENOUS TRICHLORIDE,7784-34-1,P65-MC,"Cancer, Developmental Toxicity"
-ATENOLOL,29122-68-7,P65,developmental toxicity
+ATENOLOL,29122-68-7,P65,Developmental Toxicity
 RU-105,14331-95-4,P65-MC,Cancer
-INORGANIC MERCURY COMPOUNDS,MCZ000,P65-MC,developmental toxicity
-ETHIONAMIDE,536-33-4,P65,developmental toxicity
+INORGANIC MERCURY COMPOUNDS,MCZ000,P65-MC,Developmental Toxicity
+ETHIONAMIDE,536-33-4,P65,Developmental Toxicity
 "2,2',3,3',4,5',6'-Heptachlorobiphenyl",52663-70-4,P65-MC,"Cancer, Developmental Toxicity"
 "2,3,3',4,5-Pentachlorobiphenyl",70424-69-0,P65-MC,"Cancer, Developmental Toxicity"
 "2,2',3,4,4',5'-HEXACHLOROBIPHENYL",35065-28-2,P65-MC,"Cancer, Developmental Toxicity"
-FLUOXYMESTRONE,76-43-7,P65,developmental toxicity
-ALL-TRANS RETINOIC ACID,302-79-4,P65,developmental toxicity
+FLUOXYMESTRONE,76-43-7,P65,Developmental Toxicity
+ALL-TRANS RETINOIC ACID,302-79-4,P65,Developmental Toxicity
 HEXACHLORODIBENZOFURAN,55684-94-1,P65-MC,Cancer
 "2-METHYL-1,3-BUTADIENE",78-79-5,P65,Cancer
-METHOTREXATE,59-05-2,P65,developmental toxicity
+METHOTREXATE,59-05-2,P65,Developmental Toxicity
 NB-94,14681-63-1,P65-MC,Cancer
 "MONOCHLORODIBENZOFURANS, TOTAL",EDF-200,P65-MC,Cancer
 ZR-95,13967-71-0,P65-MC,Cancer
 "2,6-DINITROTOLUENE",606-20-2,P65,"Cancer, Reproductive Toxicity"
 "2,2',3,5,6,6'-Hexachlorobiphenyl",68194-09-2,P65-MC,"Cancer, Developmental Toxicity"
 NP-239,13968-59-7,P65-MC,Cancer
-TESTOSTERONE CYPIONATE,58-20-8,P65,developmental toxicity
+TESTOSTERONE CYPIONATE,58-20-8,P65,Developmental Toxicity
 O-TOLUIDINE HYDROCHLORIDE,636-21-5,P65,Cancer
 BERYLLIUM COPPER ALLOY,11133-98-5,P65-MC,Cancer
 "2,2',3,5'-TETRACHLOROBIPHENYL (PCB-44)",41464-39-5,P65-MC,"Cancer, Developmental Toxicity"
@@ -655,11 +655,11 @@ ARISTOLOCHIC ACID,313-67-7,P65,Cancer
 "3,3'-DICHLOROBENZIDINE DIHYDROCHLORIDE",612-83-9,P65,Cancer
 OCTABROMOBIPHENYL,27858-07-7,P65-MC,"Cancer, Developmental Toxicity"
 THIOURACIL,141-90-2,P65,Cancer
-DISODIUM CYANODITHIOIMIDOCARBONATE,138-93-2,P65,developmental toxicity
+DISODIUM CYANODITHIOIMIDOCARBONATE,138-93-2,P65,Developmental Toxicity
 SHALE-OILS,68308-34-9,P65,Cancer
 lead II arsenate,7645-25-2,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 ARSENIC V,17428-41-0,P65-MC,"Cancer, Developmental Toxicity"
-FLUTAMIDE,13311-84-7,P65,developmental toxicity
+FLUTAMIDE,13311-84-7,P65,Developmental Toxicity
 "2,2',3,3',4,6-Hexachlorobiphenyl",61798-70-7,P65-MC,"Cancer, Developmental Toxicity"
 IN-113M,14885-78-0(m),P65-MC,Cancer
 "1,2,3,7,8-PENTACHLORODIBENZOFURAN",57117-41-6,P65-MC,Cancer
@@ -671,8 +671,8 @@ CE-144+D,14762-78-8(+D),P65-MC,Cancer
 "BROMACIL LITHIUM SALT (2,4(H,3H)-PYRIMIDINEDIONE, ETHYL-3 (1-METHYLPROPYL), LITHIUM SALT)",53404-19-6,P65,"Reproductive Toxicity, Developmental Toxicity"
 U-237,14269-75-1,P65-MC,Cancer
 AROCLOR 1240,71328-89-7,P65-MC,"Cancer, Developmental Toxicity"
-TERBACIL,5902-51-2,P65,developmental toxicity
-ETHYLMERCURIC PHOSPHATE,2235-25-8,P65-MC,developmental toxicity
+TERBACIL,5902-51-2,P65,Developmental Toxicity
+ETHYLMERCURIC PHOSPHATE,2235-25-8,P65-MC,Developmental Toxicity
 LEAD SUBACETATE,1335-32-6,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 O-ANISIDINE,90-04-0,P65,Cancer
 "1,2-DIMETHYLHYDRAZINE",540-73-8,P65,Cancer
@@ -682,14 +682,14 @@ HEXACHLORODIBENZODIOXIN,34465-46-8,P65,Cancer
 CHLORSULFURON,64902-72-3,P65,"Reproductive Toxicity, Developmental Toxicity"
 RADON-220,22481-48-7,P65-MC,Cancer
 TE-129,14269-71-7,P65-MC,Cancer
-MERCURIC SULFIDE,1344-48-5,P65-MC,developmental toxicity
+MERCURIC SULFIDE,1344-48-5,P65-MC,Developmental Toxicity
 propylene glycol butyl ether,57018-52-7,P65,Cancer
 Y-91,14234-24-3,P65-MC,Cancer
 CS-137+D,10045-97-3(+D),P65-MC,Cancer
 NAPHTHALENE,91-20-3,P65,Cancer
 "1,2,3,7,8,9-HEXACHLORODIBENZO-P-DIOXIN",19408-74-3,P65-MC,Cancer
 "3,3',4,5-Tetrachlorobiphenyl",70362-49-1,P65-MC,"Cancer, Developmental Toxicity"
-DICLOFOP METHYL,51338-27-3,P65,developmental toxicity
+DICLOFOP METHYL,51338-27-3,P65,Developmental Toxicity
 NI-63,13981-37-8,P65-MC,Cancer
 "2,2',3,6-Tetrachlorobiphenyl",70362-45-7,P65-MC,"Cancer, Developmental Toxicity"
 "2,3'3,5,6-PENTACHLOROBIPHENYL (PCB-95)",38379-99-6,P65-MC,"Cancer, Developmental Toxicity"
@@ -698,9 +698,9 @@ NI-63,13981-37-8,P65-MC,Cancer
 "2,2',4,6-TETRACHLOROBIPHENYL (PCB-51)",68194-04-7,P65-MC,"Cancer, Developmental Toxicity"
 ER-169,15840-13-8,P65-MC,Cancer
 "2,3,3',4,5'-Pentachlorobiphenyl",70362-41-3,P65-MC,"Cancer, Developmental Toxicity"
-CLORAZEPATE DIPOTASSIUM,57109-90-7,P65,developmental toxicity
+CLORAZEPATE DIPOTASSIUM,57109-90-7,P65,Developmental Toxicity
 NITROFURANTOIN,67-20-9,P65,Reproductive Toxicity
-STREPTOMYCIN SULFATE,3810-74-0,P65,developmental toxicity
+STREPTOMYCIN SULFATE,3810-74-0,P65,Developmental Toxicity
 DISPERSE BLUE 1,2475-45-8,P65,Cancer
 C.I. SOLVENT YELLOW 3,97-56-3,P65,Cancer
 "3,3',4-TRICHLOROBIPHENYL (PCB-35)",37680-69-6,P65-MC,"Cancer, Developmental Toxicity"
@@ -709,7 +709,7 @@ DAUNOMYCIN,20830-81-3,P65,Cancer
 NICKEL CARBONYL,13463-39-3,P65,"Cancer, Developmental Toxicity"
 CU-64,13981-25-4,P65-MC,Cancer
 "2,2',5-TRICHLOROBIPHENYL (PCB-18)",37680-65-2,P65-MC,"Cancer, Developmental Toxicity"
-SODIUM DIMETHYLDITHIOCARBAMATE,128-04-1,P65,developmental toxicity
+SODIUM DIMETHYLDITHIOCARBAMATE,128-04-1,P65,Developmental Toxicity
 "2,4',5-TRICHLOROBIPHENYL (PCB-31)",16862-07-4,P65-MC,"Cancer, Developmental Toxicity"
 CARBON DISULFIDE,75-15-0,P65,"Reproductive Toxicity, Developmental Toxicity"
 C.I. DIRECT BLUE 218,28407-37-6,P65,Cancer
@@ -717,20 +717,20 @@ DIELDRIN,60-57-1,P65,Cancer
 LEAD (ALKYL 4+) (SOLNR LEAD ALKYLS),EDF-199,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 BIS(CHLOROMETHYL) ETHER,542-88-1,P65,Cancer
 "2,3-DIBROMO-1-PROPANOL",96-13-9,P65,Cancer
-NORETHISTERONE ACETATE (NORETHINDRONE ACETATE),51-98-9,P65,developmental toxicity
+NORETHISTERONE ACETATE (NORETHINDRONE ACETATE),51-98-9,P65,Developmental Toxicity
 CINNAMYL ANTHRANILATE,87-29-6,P65,Cancer
 "ORAL CONTRACEPTIVES, SEQUENTIAL",EDF-040,P65,Cancer
 Coplanar Polychlorinated Biphenyls,EDF-511,P65-MC,"Cancer, Developmental Toxicity"
 "3,4,4',5-Tetrachlorobiphenyl (PCB81)",EDF-510,P65-MC,"Cancer, Developmental Toxicity"
 METHYL METHANESULFONATE,66-27-3,P65,Cancer
 RESIDUAL (HEAVY) FUEL OILS,EDF-049,P65,Cancer
-AMINOGLUTETHIMIDE,125-84-8,P65,developmental toxicity
+AMINOGLUTETHIMIDE,125-84-8,P65,Developmental Toxicity
 PENTACHLORODIBENZO-P-DIOXIN,36088-22-9,P65-MC,Cancer
-MERCURIC OXIDE,21908-53-2,P65-MC,developmental toxicity
+MERCURIC OXIDE,21908-53-2,P65-MC,Developmental Toxicity
 3-AMINO-9-ETHYLCARBAZOLE HYDROCHLORIDE,6109-97-3,P65,Cancer
 METHYLAZOXYMETHANOL ACETATE,592-62-1,P65,Cancer
 OS-185,15766-50-4,P65-MC,Cancer
-CYTARABINE,147-94-4,P65,developmental toxicity
+CYTARABINE,147-94-4,P65,Developmental Toxicity
 "2,2',3,4,4',5,5',6-Octachlorobiphenyl",52663-76-0,P65-MC,"Cancer, Developmental Toxicity"
 NI-59,14336-70-0,P65-MC,Cancer
 LEAD CHLORIDE,7758-95-4,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
@@ -742,7 +742,7 @@ PROCARBAZINE HYDROCHLORIDE,366-70-1,P65,"Cancer, Developmental Toxicity"
 "1,2-DICHLOROETHANE",107-06-2,P65,Cancer
 N-NITROSOSARCOSINE,13256-22-9,P65,Cancer
 4-NITROBIPHENYL,92-93-3,P65,Cancer
-DIHYDROERGOTAMINE MESYLATE,6190-39-2,P65,developmental toxicity
+DIHYDROERGOTAMINE MESYLATE,6190-39-2,P65,Developmental Toxicity
 "2,3,4-TRICHLOROBIPHENYL (PCB-21)",55702-46-0,P65-MC,"Cancer, Developmental Toxicity"
 CADMIUM SULFATE,10124-36-4,P65-MC,Cancer
 IN-115M,14191-71-0(m),P65-MC,Cancer
@@ -751,81 +751,81 @@ PB-209,14119-30-3,P65-MC,Cancer
 "2,4,4',6-TETRACHLOROBIPHENYL (PCB-75)",32598-12-2,P65-MC,"Cancer, Developmental Toxicity"
 HEPTACHLORODIBENZOFURAN,38998-75-3,P65-MC,Cancer
 CHLOROTRIANISENE,569-57-3,P65,Cancer
-PIPOBROMAN,54-91-1,P65,developmental toxicity
+PIPOBROMAN,54-91-1,P65,Developmental Toxicity
 TB-160,13981-29-8,P65-MC,Cancer
 CM-247,15758-32-4,P65-MC,Cancer
 FIREMASTER BP-6,59536-65-1,P65-MC,"Cancer, Developmental Toxicity"
 "2',3,4-TRICHLOROBIPHENYL (PCB-33)",38444-86-9,P65-MC,"Cancer, Developmental Toxicity"
-WARFARIN SODIUM,129-06-6,P65-MC,developmental toxicity
-CARBOPLATIN,41575-94-4,P65,developmental toxicity
-MERCURIC NITRATE,10045-94-0,P65-MC,developmental toxicity
-METHYLMERCURIC DICYANAMIDE,502-39-6,P65-MC,developmental toxicity
-CLARITHROMYCIN,81103-11-9,P65,developmental toxicity
+WARFARIN SODIUM,129-06-6,P65-MC,Developmental Toxicity
+CARBOPLATIN,41575-94-4,P65,Developmental Toxicity
+MERCURIC NITRATE,10045-94-0,P65-MC,Developmental Toxicity
+METHYLMERCURIC DICYANAMIDE,502-39-6,P65-MC,Developmental Toxicity
+CLARITHROMYCIN,81103-11-9,P65,Developmental Toxicity
 Methyleugenol,93-15-2,P65,Cancer
-sermorelin acetate,EDF-373,P65,developmental toxicity
+sermorelin acetate,EDF-373,P65,Developmental Toxicity
 GLYCIDALDEHYDE,765-34-4,P65,Cancer
 BI-212,14913-49-6,P65-MC,Cancer
 AG-111,15760-04-0,P65-MC,Cancer
 "7,12-DIMETHYLBENZ(A)ANTHRACENE",57-97-6,P65,Cancer
-BROMOXYNIL,1689-84-5,P65,developmental toxicity
-OXYTETRACYCLINE HYDROCHLORIDE (INTERNAL USE),2058-46-0,P65,developmental toxicity
+BROMOXYNIL,1689-84-5,P65,Developmental Toxicity
+OXYTETRACYCLINE HYDROCHLORIDE (INTERNAL USE),2058-46-0,P65,Developmental Toxicity
 "ETHENE, FLUORO-",75-02-5,P65,Cancer
 DICHLOROBROMOMETHANE,75-27-4,P65,Cancer
-MERCURIC CYANIDE,592-04-1,P65-MC,developmental toxicity
+MERCURIC CYANIDE,592-04-1,P65-MC,Developmental Toxicity
 BI-211,15229-37-5,P65-MC,Cancer
 ETHYLBENZENE,100-41-4,P65,Cancer
 BETA-LINDANE,319-85-7,P65-MC,Cancer
 PHENYLHYDRAZINE,100-63-0,P65,Cancer
 "TRANS-1,3-DICHLOROPROPENE",10061-02-6,P65-MC,Cancer
-ETOPOSIDE,33419-42-0,P65,developmental toxicity
-FLUVALINATE,69409-94-5,P65,developmental toxicity
+ETOPOSIDE,33419-42-0,P65,Developmental Toxicity
+FLUVALINATE,69409-94-5,P65,Developmental Toxicity
 LU-177,14265-75-9,P65-MC,Cancer
 "HEXACHLORINATED DIBENZOFURAN, 1,2,3,4,7,8-",70648-26-9,P65-MC,Cancer
 SELENIUM SULFIDE,7446-34-6,P65,Cancer
 CHRYSENE,218-01-9,P65,Cancer
-THALIDOMIDE,50-35-1,P65,developmental toxicity
+THALIDOMIDE,50-35-1,P65,Developmental Toxicity
 ARSENIC,7440-38-2,P65-MC,"Cancer, Developmental Toxicity"
 SE-75,14265-71-5,P65-MC,Cancer
 AU-198,10043-49-9,P65-MC,Cancer
 PHENACETIN,62-44-2,P65,Cancer
-BARBITURATES,BAG500,P65,developmental toxicity
-DOXYCYCLINE CALCIUM (INTERNAL USE),94088-85-4,P65,developmental toxicity
+BARBITURATES,BAG500,P65,Developmental Toxicity
+DOXYCYCLINE CALCIUM (INTERNAL USE),94088-85-4,P65,Developmental Toxicity
 AC-228,14331-83-0,P65-MC,Cancer
 SODIUM BICHROMATE,10588-01-9,P65-MC,Cancer
 GRISEOFULVIN,126-07-8,P65,Cancer
 NICKEL (NICKEL SULFATE HEXAHYDRATE),10101-97-0,P65-MC,Cancer
 "1,1'-BI(ETHYLENE OXIDE)",1464-53-5,P65,Cancer
 1-(2-CHLOROETHYL)-3-CYCLOHEXYL-1-NITROSOUREA,13010-47-4,P65,"Cancer, Developmental Toxicity"
-Auranofin,34031-32-8,P65,developmental toxicity
+Auranofin,34031-32-8,P65,Developmental Toxicity
 MERPHALAN,531-76-0,P65,Cancer
 CHLOROETHANE,75-00-3,P65,Cancer
 "1,2,3,6,7,8-HEXACHLORODIBENZO-P-DIOXIN",57653-85-7,P65-MC,Cancer
 SR-90+D,10098-97-2(+D),P65-MC,Cancer
 PROPACHLOR,1918-16-7,P65,Cancer
-THIOGUANINE,154-42-7,P65,developmental toxicity
+THIOGUANINE,154-42-7,P65,Developmental Toxicity
 TM-170,13981-30-1,P65-MC,Cancer
-DI(PHENYLMERCURY)DODECENYLSUCCINATE [PMDS],EDF-187,P65-MC,developmental toxicity
-ENDRIN,72-20-8,P65,developmental toxicity
-PHENYLMERCURIC OLEATE [PMO],EDF-185,P65-MC,developmental toxicity
+DI(PHENYLMERCURY)DODECENYLSUCCINATE [PMDS],EDF-187,P65-MC,Developmental Toxicity
+ENDRIN,72-20-8,P65,Developmental Toxicity
+PHENYLMERCURIC OLEATE [PMO],EDF-185,P65-MC,Developmental Toxicity
 TETRAETHYLLEAD,78-00-2,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
-CHLOROMETHOXYPROPYLMERCURIC ACETATE [CPMA],EDF-183,P65-MC,developmental toxicity
-DIISOPROPYL MERCURY,1071-39-2,P65-MC,developmental toxicity
+CHLOROMETHOXYPROPYLMERCURIC ACETATE [CPMA],EDF-183,P65-MC,Developmental Toxicity
+DIISOPROPYL MERCURY,1071-39-2,P65-MC,Developmental Toxicity
 W-185,14932-41-3,P65-MC,Cancer
 STRONTIUM CHROMATE,2151068.0,P65-MC,Cancer
 "SOOTS, TARS, AND CERTAIN MINERAL OILS",EDF-050,P65,Cancer
-TETRACYCLINES,EDF-052,P65,developmental toxicity
+TETRACYCLINES,EDF-052,P65,Developmental Toxicity
 "TOBACCO, ORAL USE OF SMOKELESS PRODUCTS",EDF-053,P65,Cancer
 PA-231,14331-85-2,P65-MC,Cancer
 "2,3,3',4-Tetrachlorobiphenyl",74338-24-2,P65-MC,"Cancer, Developmental Toxicity"
 "1,4-BUTANEDIOL DIMETHANESULFONATE (MYLERAN)",55-98-1,P65,"Cancer, Developmental Toxicity"
-DICHLORPHENAMIDE,120-97-8,P65,developmental toxicity
+DICHLORPHENAMIDE,120-97-8,P65,Developmental Toxicity
 "4,4'-METHYLENEBIS-DIHYDROCHLORIDE BENZENEMINE",13552-44-8,P65,Cancer
 AM-243(+D),14993-75-0(+D),P65-MC,Cancer
 SB-122,14374-79-9,P65-MC,Cancer
 PRONAMIDE,23950-58-5,P65,Cancer
 "2,3,3',4,4',5,5',6-Octachlorobiphenyl",74472-53-0,P65-MC,"Cancer, Developmental Toxicity"
 RIBAVIRIN,36791-04-5,P65,"Reproductive Toxicity, Developmental Toxicity"
-ACETOHYDROXAMIC ACID,546-88-3,P65,developmental toxicity
+ACETOHYDROXAMIC ACID,546-88-3,P65,Developmental Toxicity
 Aroclor 1216,151820-27-8,P65-MC,"Cancer, Developmental Toxicity"
 BENZYL CHLORIDE,100-44-7,P65,Cancer
 ARSENIC ACID,7778-39-4,P65-MC,"Cancer, Developmental Toxicity"
@@ -836,13 +836,13 @@ RA-228+D,15262-20-1(+D),P65-MC,Cancer
 ISOSAFROLE,120-58-1,P65,Cancer
 KR-88,14995-61-0,P65-MC,Cancer
 AMMONIUM BICHROMATE,2151163.0,P65-MC,Cancer
-AMOXAPINE,14028-44-5,P65,developmental toxicity
-TETRACYCLINE HYDROCHLORIDE,64-75-5,P65,developmental toxicity
+AMOXAPINE,14028-44-5,P65,Developmental Toxicity
+TETRACYCLINE HYDROCHLORIDE,64-75-5,P65,Developmental Toxicity
 TREOSULFAN,299-75-2,P65,Cancer
-CARBON MONOXIDE,630-08-0,P65,developmental toxicity
-TENIPOSIDE,29767-20-2,P65,developmental toxicity
+CARBON MONOXIDE,630-08-0,P65,Developmental Toxicity
+TENIPOSIDE,29767-20-2,P65,Developmental Toxicity
 CAMPHECHLOR,8001-35-2,P65,Cancer
-HALAZEPAM,23092-17-3,P65,developmental toxicity
+HALAZEPAM,23092-17-3,P65,Developmental Toxicity
 "2,2',3,3',4,5,5',6-Octachlorobiphenyl",68194-17-2,P65-MC,"Cancer, Developmental Toxicity"
 MAGNESIUM ARSENATE,10103-50-1,P65-MC,"Cancer, Developmental Toxicity"
 NP-240,15690-84-3,P65-MC,Cancer
@@ -858,8 +858,8 @@ AT-217,17239-90-6,P65-MC,Cancer
 PA-234M,15100-28-4(m),P65-MC,Cancer
 ZR-97,14928-30-4,P65-MC,Cancer
 PB-211,15816-77-0,P65-MC,Cancer
-BIS(ISOBUTYL) MERCURY,24470-76-6,P65-MC,developmental toxicity
-DIAZEPAM,439-14-5,P65,developmental toxicity
+BIS(ISOBUTYL) MERCURY,24470-76-6,P65-MC,Developmental Toxicity
+DIAZEPAM,439-14-5,P65,Developmental Toxicity
 ETHYLENE GLYCOL MONOMETHYL ETHER ACETATE,110-49-6,P65,"Reproductive Toxicity, Developmental Toxicity"
 DIPROPYL ISOCINCHOMERONATE,136-45-8,P65,Cancer
 LEAD-MOLYBDENUM CHROMATE,12709-98-7,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
@@ -870,13 +870,13 @@ PROGESTERONE,57-83-0,P65,Cancer
 LEAD IODIDE,10101-63-0,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
 THIOACETAMIDE,62-55-5,P65,Cancer
 XE-135M,14995-62-1(m),P65-MC,Cancer
-NEOMYCIN SULFATE,1405-10-3,P65,developmental toxicity
+NEOMYCIN SULFATE,1405-10-3,P65,Developmental Toxicity
 CADMIUM SULFIDE,1306-23-6,P65-MC,Cancer
 PT-191,15706-36-2,P65-MC,Cancer
 OREGON ERIONITE,12510-42-8,P65,Cancer
 GA-72,13982-22-4,P65-MC,Cancer
 "2,3,3',4',5,5',6-Heptachlorobiphenyl",69782-91-8,P65-MC,"Cancer, Developmental Toxicity"
-HALOTHANE,151-67-7,P65,developmental toxicity
+HALOTHANE,151-67-7,P65,Developmental Toxicity
 RB-86,14932-53-7,P65-MC,Cancer
 KR-85,13983-27-2,P65-MC,Cancer
 PD-109,14981-64-7,P65-MC,Cancer
@@ -888,14 +888,587 @@ HG-197,13981-51-6,P65-MC,Cancer
 O-TOLUIDINE,95-53-4,P65,Cancer
 "2,3,3',4,4',5,6-Heptachlorobiphenyl",41411-64-7,P65-MC,"Cancer, Developmental Toxicity"
 5-NITROACENAPHTHANE,602-87-9,P65,Cancer
-DAUNORUBICIN HYDROCHLORIDE,23541-50-6,P65,developmental toxicity
-ALPRAZOLAM,28981-97-7,P65,developmental toxicity
+DAUNORUBICIN HYDROCHLORIDE,23541-50-6,P65,Developmental Toxicity
+ALPRAZOLAM,28981-97-7,P65,Developmental Toxicity
 "2,2',4,4',5,6'-Hexachlorobiphenyl",60145-22-4,P65-MC,"Cancer, Developmental Toxicity"
 "METHANAMINE, N-METHYL-N-NITROSO",62-75-9,P65,Cancer
 "2,3',3,3'-TETRACHLOROBIPHENYL (PCB-40)",38444-93-8,P65-MC,"Cancer, Developmental Toxicity"
-QUAZEPAM,36735-22-5,P65,developmental toxicity
-PHENACEMIDE,63-98-9,P65,developmental toxicity
+QUAZEPAM,36735-22-5,P65,Developmental Toxicity
+PHENACEMIDE,63-98-9,P65,Developmental Toxicity
 NB-93M,7440-03-1(m),P65-MC,Cancer
-MIDAZOLAM HYDROCHLORIDE,59467-96-8,P65,developmental toxicity
+MIDAZOLAM HYDROCHLORIDE,59467-96-8,P65,Developmental Toxicity
 TH-228+D,14274-82-9(+D),P65-MC,Cancer
 MONOCHLOROBIPHENYL,27323-18-8,P65-MC,"Cancer, Developmental Toxicity"
+"2,2A,3,3A,4,4A,5,6A-Octachlorobiphenyl (PCB196)",42740-50-1,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',6-Pentachlorobiphenyl",52663-60-2,P65-MC,"Cancer, Developmental Toxicity"
+"1-AMINO-2,4-DIBROMOANTHRAQUINONE",81-49-2,P65,Cancer
+DIMETHYLCARBAMOYL CHLORIDE,79-44-7,P65,Cancer
+ETHYL DIPROPYLTHIOCARBAMATE,759-94-4,P65,Developmental Toxicity
+N-METHYL-2-PYRROLIDONE,872-50-4,P65,Developmental Toxicity
+IN-114,13981-55-0,P65-MC,Cancer
+RADIUM-226,13982-63-3,P65-MC,Cancer
+IDARUBICIN HYDROCHLORIDE,57852-57-0,P65,"Reproductive Toxicity, Developmental Toxicity"
+ESTRONE,53-16-7,P65,Cancer
+SULFUR-35,15117-53-0,P65-MC,Cancer
+"2-AMINO-9H-PYRIDO (2,3-B) INDOLE (A-ALPHA-C)",26148-68-5,P65,Cancer
+BROMOXYNIL OCTANOATE,1689-99-2,P65,Developmental Toxicity
+NICKELOCENE,1271-28-9,P65,Cancer
+RA-223,15623-45-7,P65-MC,Cancer
+"3,7-DINITROFLUORANTHENE",105735-71-5,P65,Cancer
+"2,3,3',4,5,6-Hexachlorobiphenyl",41411-62-5,P65-MC,"Cancer, Developmental Toxicity"
+"1,4-DIOXANE",123-91-1,P65,Cancer
+CHROMIUM (VI) COMPOUNDS,18540-29-9,P65,Cancer
+LEAD ACETATE,301-04-2,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+DINOCAP,39300-45-3,P65,Developmental Toxicity
+DOXYCYCLINE MONOHYDRATE (INTERNAL USE),17086-28-1,P65,Developmental Toxicity
+"2,2',4,5-Tetrachlorobiphenyl",70362-47-9,P65-MC,"Cancer, Developmental Toxicity"
+AG-108M+D,14391-65-2(m)(+D),P65-MC,Cancer
+POTASSIUM-40,13966-00-2,P65-MC,Cancer
+THIODICARB,59669-26-0,P65,Cancer
+"2,2',3,4,4',5-Hexachlorobiphenyl",35694-06-5,P65-MC,"Cancer, Developmental Toxicity"
+RB-89,14191-65-2,P65-MC,Cancer
+"2,2',3,4'-Tetrachlorobiphenyl",36559-22-5,P65-MC,"Cancer, Developmental Toxicity"
+TERT-BUTYL CHROMATE,1189-85-1,P65-MC,Cancer
+"1,6-DINITROPYRENE",42397-64-8,P65,Cancer
+EPSILON-LINDANE,1537222.0,P65-MC,Cancer
+"2,5-DINITROTOLUENE",619-15-8,P65-MC,Reproductive Toxicity
+PHENPROCOUMON,435-97-2,P65,Developmental Toxicity
+"2,2',3,3',4,5'-Hexachlorobiphenyl",52663-66-8,P65-MC,"Cancer, Developmental Toxicity"
+LEUPROLIDE ACETATE,74381-53-6,P65,"Reproductive Toxicity, Developmental Toxicity"
+1-METHYL-2-NITROBENZENE,88-72-2,P65,Cancer
+CARBON-14,14762-75-5,P65-MC,Cancer
+EU-152,14683-23-9,P65-MC,Cancer
+"2,2',3,4,5-Pentachlorobiphenyl",55312-69-1,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',4-Pentachlorobiphenyl",52663-62-4,P65-MC,"Cancer, Developmental Toxicity"
+OXAZEPAM,604-75-1,P65,"Cancer, Developmental Toxicity"
+"2,4-DICHLOROBIPHENYL (PCB-7)",33284-50-3,P65-MC,"Cancer, Developmental Toxicity"
+VINCRISTINE SULFATE,2068-78-2,P65,Developmental Toxicity
+AROCLOR 1232,11141-16-5,P65-MC,"Cancer, Developmental Toxicity"
+LYNESTRENOL,52-76-6,P65,Cancer
+"3,3'-DICHLOROBENZIDINE",91-94-1,P65,Cancer
+PO-213,15756-57-7,P65-MC,Cancer
+LEAD PHOSPHATE,7446-27-7,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+URANIUM-235,15117-96-1,P65-MC,Cancer
+OS-191,14119-24-5,P65-MC,Cancer
+BERYLLIUM,7440-41-7,P65,Cancer
+"2,2',3,4,6-PENTACHLOROBIPHENYL (PCB-88)",55215-17-3,P65-MC,"Cancer, Developmental Toxicity"
+"DIBENZ[A,H]ACRIDINE",226-36-8,P65,Cancer
+NP-236B,15700-36-4(b),P65-MC,Cancer
+TE-131,14683-12-6,P65-MC,Cancer
+"CREOSOTE OIL, LOW-BOILING DISTILLATE",70321-80-1,P65-MC,Cancer
+QUIZALOFOP-ETHYL,76578-14-8,P65,Reproductive Toxicity
+Levodopa,59-92-7,P65,Developmental Toxicity
+"2,6-DIAMINOTOLUENE",823-40-5,P65-MC,Cancer
+LITHIUM CHROMATE,14307-35-8,P65-MC,Cancer
+I-132,14683-16-0,P65-MC,Cancer
+NICKEL,7440-02-0,P65,Cancer
+"2,3,3',4',5-Pentachlorobiphenyl",70424-68-9,P65-MC,"Cancer, Developmental Toxicity"
+TH-229+D,15594-54-4(+D),P65-MC,Cancer
+MERCURIC ACETATE,1600-27-7,P65-MC,Developmental Toxicity
+MEDROXYPROGESTERONE ACETATE,71-58-9,P65,"Cancer, Developmental Toxicity"
+AMMONIUM COPPER ARSENATE,16102-92-4,P65-MC,"Cancer, Developmental Toxicity"
+CS-134,13967-70-9,P65-MC,Cancer
+SODIUM ARSENITE,7784-46-5,P65-MC,"Cancer, Developmental Toxicity"
+RH-106,14234-34-5,P65-MC,Cancer
+"2,4'-DICHLOROBIPHENYL (PCB-8)",34883-43-7,P65-MC,"Cancer, Developmental Toxicity"
+FORMALDEHYDE,50-00-0,P65,Cancer
+AM-243,14993-75-0,P65-MC,Cancer
+CE-141,13967-74-3,P65-MC,Cancer
+U-235+D,15117-96-1(+D),P65-MC,Cancer
+MERCURY CHLORIDE (2),7487-94-7,P65-MC,Developmental Toxicity
+STRONG INORGANIC ACID MISTS CONTAINING SULFURIC ACID,7664-93-9(InorgMist),P65,Cancer
+BENZOIC TRICHLORIDE,98-07-7,P65,Cancer
+PHENAZOPYRIDINE HYDROCHLORIDE,136-40-3,P65,Cancer
+PT-197,15735-74-7,P65-MC,Cancer
+HYDRAMETHYLNON,67485-29-4,P65,"Reproductive Toxicity, Developmental Toxicity"
+RN-219,14835-02-0,P65-MC,Cancer
+CM-246,15757-90-1,P65-MC,Cancer
+C.I. FOOD RED 5,3761-53-3,P65,Cancer
+OS-191M,14119-24-5(m),P65-MC,Cancer
+ALACHLOR,15972-60-8,P65,Cancer
+DDE,72-55-9,P65,Cancer
+ARSINE,7784-42-1,P65-MC,"Cancer, Developmental Toxicity"
+CADMIUM,7440-43-9,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+AMMONIUM CHROMATE,7788-98-9,P65-MC,Cancer
+VINBLASTINE SULFATE,143-67-9,P65,Developmental Toxicity
+NITROGEN MUSTARD N-OXIDE,126-85-2,P65,Cancer
+SALICYLAZOSULFAPYRIDINE,599-79-1,P65,"Cancer, Reproductive Toxicity"
+URETHANE,51-79-6,P65,"Cancer, Developmental Toxicity"
+"2,2',4,4',6,6'-HEXACHLOROBIPHENYL (PCB-155)",33979-03-2,P65-MC,"Cancer, Developmental Toxicity"
+"TRIS(2,3-DIBROMOPROPYL) PHOSPHATE",126-72-7,P65,Cancer
+DINITROTOLUENE (MIXED ISOMERS),25321-14-6,P65,Reproductive Toxicity
+ND-147,14269-74-0,P65-MC,Cancer
+1-NITROPYRENE,5522-43-0,P65,Cancer
+"2,2',3,4',5,5'-Hexachlorobiphenyl",51908-16-8,P65-MC,"Cancer, Developmental Toxicity"
+primidone,125-33-7,P65,Cancer
+5-(MORPHOLINOMETHYL)-3-[(5-NITRO-FURFURYLIDENE)-   AMINO]-2-OXALOLIDINONE,139-91-3,P65,Cancer
+KR-89,16316-03-3,P65-MC,Cancer
+"INDENO(1,2,3-CD)PYRENE",193-39-5,P65,Cancer
+P-NITROSODIPHENYLAMINE,156-10-5,P65,Cancer
+PHENYL MERCURIC PROPIONATE,103-27-5,P65-MC,Developmental Toxicity
+CYCASIN,14901-08-7,P65,Cancer
+CADMIUM FLUORIDE,7790-79-6,P65-MC,Cancer
+BERYLLIUM FLUORIDE,7787-49-7,P65-MC,Cancer
+PRAVASTATIN SODIUM,81131-70-6,P65,Developmental Toxicity
+PD-101,15749-54-9,P65-MC,Cancer
+KR-83M,13965-98-5(m),P65-MC,Cancer
+5-METHYLCHRYSENE,3697-24-3,P65,Cancer
+NITRILOTRIACETIC ACID,139-13-9,P65,Cancer
+SAFROLE,94-59-7,P65,Cancer
+"DANTRON (CHRYSAZIN; 1,8-DIHYDROXYANTHRAQUINONE)",117-10-2,P65,Cancer
+"2-CHLOR-1,3-BUTADIENE",126-99-8,P65,Cancer
+"ACIFLUORFEN, SODIUM SALT",62476-59-9,P65,Cancer
+DIRECT BLACK 38,1937-37-7,P65,Cancer
+TE-132,14234-28-7,P65-MC,Cancer
+CLADRIBINE,4291-63-8,P65,Developmental Toxicity
+"2,2'4,4',6-PENTACHLOROBIPHENYL (PCB-99)",38380-01-7,P65-MC,"Cancer, Developmental Toxicity"
+I-126,14158-32-8,P65-MC,Cancer
+MECHLORETHAMINE,51-75-2,P65,"Cancer, Developmental Toxicity"
+2-PHENYLPHENOL,90-43-7,P65,Cancer
+"2,2',4,5'-TETRACHLOROBIPHENYL (PCB-49)",41464-40-8,P65-MC,"Cancer, Developmental Toxicity"
+DOXYCYCLINE,564-25-0,P65,Developmental Toxicity
+COLCHICINE,64-86-8,P65,"Reproductive Toxicity, Developmental Toxicity"
+BENZO(K)FLUORANTHENE,207-08-9,P65,Cancer
+I-135,14834-68-5,P65-MC,Cancer
+SR-91,14331-91-0,P65-MC,Cancer
+PO-218,15422-24-9,P65-MC,Cancer
+"DIPHENYLHYDANTOIN (PHENYTOIN), SODIUM SALT",630-93-3,P65,Cancer
+LEAD FLUOBORATE,13814-96-5,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+"2,2',3,4',6-Pentachlorobiphenyl",68194-05-8,P65-MC,"Cancer, Developmental Toxicity"
+VALPROATE,99-66-1,P65,Developmental Toxicity
+"3,9-DINITROFLUORANTHENE",22506-53-2,P65,Cancer
+"(+-)-METHYL (1R,2R,3R)-3-HYDROXY-2-((E)-(4RS)-4-HYDROXY-4-METHYL-1-OCTENYL)-5- -OXOCYCLOPENTANEHEPTANOATE",59122-46-2,P65,Developmental Toxicity
+"2,3,4,7,8-PENTACHLORODIBENZOFURAN",57117-31-4,P65-MC,Cancer
+AG-110M,14391-76-5(m),P65-MC,Cancer
+C.I. SOLVENT YELLOW 14,842-07-9,P65,Cancer
+NITRAPYRIN,1929-82-4,P65,Developmental Toxicity
+DIGLYCIDYL RESORCINOL ETHER (DGRE),101-90-6,P65,Cancer
+CHLORAMBUCIL,305-03-3,P65,"Cancer, Developmental Toxicity"
+DICHLOROMETHANE,75-09-2,P65,Cancer
+"2,2',3,4,4',5,6-Heptachlorobiphenyl",74472-47-2,P65-MC,"Cancer, Developmental Toxicity"
+TL-202,15720-57-7,P65-MC,Cancer
+"2,3',5'-Trichlorobiphenyl",37680-68-5,P65-MC,"Cancer, Developmental Toxicity"
+TOBACCO SMOKE (PRIMARY),EDF-073,P65,"Reproductive Toxicity, Developmental Toxicity"
+PROPANE SULTONE,1120-71-4,P65,Cancer
+AMINOGLYCOSIDES,EDF-076,P65,Developmental Toxicity
+NORETHISTERONE (NORETHINDRONE)/MESTRANOL,EDF-074,P65,Developmental Toxicity
+NORETHISTERONE (NORETHINDRONE)/ETHINYL ESTRADIOL,EDF-075,P65,Developmental Toxicity
+N-NITROSOPIPERIDINE,100-75-4,P65,Cancer
+TETRACHLOROETHYLENE,127-18-4,P65,Cancer
+ZINC CHROMATE,13530-65-9,P65-MC,Cancer
+DINITROBUTYL PHENOL,88-85-7,P65,"Reproductive Toxicity, Developmental Toxicity"
+POTASSIUM ZINC CHROMATE HYDROXIDE,11103-86-9,P65-MC,Cancer
+CL-38,14158-34-0,P65-MC,Cancer
+CADMIUM FLUOBORATE,14486-19-2,P65-MC,Cancer
+PROMETHIUM-148M,14683-19-3(m),P65-MC,Cancer
+"2,2',3,3',4,4'-HEXACHLOROBIPHENYL (PCB-128)",38380-07-3,P65-MC,"Cancer, Developmental Toxicity"
+TE-127,13981-49-2,P65-MC,Cancer
+COTININE,486-56-6,P65-MC,Cancer
+PO-215,15706-52-2,P65-MC,Cancer
+GAMMA-LINDANE,58-89-9,P65,Cancer
+P-CHLOROANILINE,106-47-8,P65,Cancer
+"3,3',4,4'-TETRACHLOROBIPHENYL (PCB-77)",32598-13-3,P65-MC,"Cancer, Developmental Toxicity"
+CHLORDECONE (KEPONE),143-50-0,P65,"Cancer, Developmental Toxicity"
+"(1,1'-BIPHENYL)-4,4'-DIAMINE, 3,3'-DIMETHYL-, DIHYDROCHLORIDE (9CI)",612-82-8,P65,Cancer
+CACODYLIc ACID,75-60-5,P65,Cancer
+CHLOROBENZILATE,510-15-6,P65,Cancer
+CR-51,14392-02-0,P65-MC,Cancer
+FURAZOLIDONE,67-45-8,P65,Cancer
+CD-109,14109-32-1,P65-MC,Cancer
+XE-123,15700-10-4,P65-MC,Cancer
+TL-207,EDF-307,P65-MC,Cancer
+"3,4,4-TRICHLOROBIPHENYL (PCB-37)",EDF-301,P65-MC,"Cancer, Developmental Toxicity"
+"(1,2-BENZENEDICARBOXYLATO(2-))DIOXOTRILEAD",69011-06-9,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+"2,2',3,3',4,5,5',6,6'-NONACHLOROBIPHENYL (PCB-208)",52663-77-1,P65-MC,"Cancer, Developmental Toxicity"
+"P-CHLORO-O-TOLUIDINE, STRONG ACID SALTS OF",EDF-308,P65,Cancer
+ISOXAFLUTOLE,EDF-309,P65,Cancer
+METHYL BROMIDE,74-83-9,P65,Developmental Toxicity
+"2,4-DINITROTOLUENE",121-14-2,P65,"Cancer, Reproductive Toxicity"
+CYCLO-DI-:-OXO(:-PHTHALATO)TRILEAD,17976-43-1,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+PENICILLAMINE,52-67-5,P65,Developmental Toxicity
+POLYBROMINATED BIPHENYLS,PJL335,P65,"Cancer, Developmental Toxicity"
+C.I. DIRECT BROWN 95,16071-86-6,P65,Cancer
+"2,2',4,6-TETRACHLOROBIPHENYL (PCB-50)",62796-65-0,P65-MC,"Cancer, Developmental Toxicity"
+ARAMITE,140-57-8,P65,Cancer
+"2,2',6-Trichlorobiphenyl",38444-73-4,P65-MC,"Cancer, Developmental Toxicity"
+Y-93,14981-70-5,P65-MC,Cancer
+"CHROMATE(3-), BIS(3-HYDROXY-4-((2-HYDROXY-1-NAPHTHALENEYL)AZO)-7-NITRO-1-NAPHTH- ALENESULFONATO(3-))-, TRISODIUM",57693-14-8,P65-MC,Cancer
+EU-155,14391-16-3,P65-MC,Cancer
+LEAD(II) OXIDE,1317-36-8,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+TETRACYCLINE (INTERNAL USE),60-54-8,P65,Developmental Toxicity
+"2,3',4,5',6-Pentachlorobiphenyl",56558-18-0,P65-MC,"Cancer, Developmental Toxicity"
+3-CHLORO-2-METHYL-1-PROPENE,563-47-3,P65,Cancer
+LEAD SULFATE,7446-14-2,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+AR-41,14163-25-8,P65-MC,Cancer
+MN-54,13966-31-9,P65-MC,Cancer
+LA-140,13981-28-7,P65-MC,Cancer
+CHLOROMETHANE,74-87-3,P65,Developmental Toxicity
+"3,3',5-Trichlorobiphenyl",38444-87-0,P65-MC,"Cancer, Developmental Toxicity"
+CICLOSPORIN (CYCLOSPORIN A; CYCLOSPORINE),79217-60-0,P65,Cancer
+METHOXYETHYLMERCURIC ACETATE,151-38-2,P65-MC,Developmental Toxicity
+Fumonisin B1,116355-83-0,P65,Cancer
+NITROFURAZONE,59-87-0,P65,Cancer
+NP-237+D,13994-20-2(+D),P65-MC,Cancer
+ARSENIC OXIDE (3),1327-53-3,P65-MC,"Cancer, Developmental Toxicity"
+AURAMINE,492-80-8,P65,Cancer
+OXYTETRACYCLINE,79-57-2,P65,Developmental Toxicity
+PO-212,15389-34-1,P65-MC,Cancer
+VINCLOZOLIN,50471-44-8,P65,"Cancer, Developmental Toxicity"
+FR-221,15756-41-9,P65-MC,Cancer
+LITHIUM CITRATE,919-16-4,P65,Developmental Toxicity
+MERCUROUS CHLORIDE,7546-30-7,P65-MC,Developmental Toxicity
+ETHOPROP,13194-48-4,P65,Cancer
+TRP-P-1 (TRYPTOPHAN-P-1),62450-06-0,P65,Cancer
+LEAD ARSENITE,10031-13-7,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+POTASSIUM ARSENITE  (ASH3O4.XK),10124-50-2,P65-MC,"Cancer, Developmental Toxicity"
+RU-97,15758-35-7,P65-MC,Cancer
+PU-244,14119-34-7,P65-MC,Cancer
+PENTOSTATIN,53910-25-1,P65,Developmental Toxicity
+MANCOZEB,2234562.0,P65,Cancer
+SPIRONOLACTONE,52-01-7,P65,Cancer
+PR-143,14981-79-4,P65-MC,Cancer
+CHLOROMETHYL METHYL ETHER,107-30-2,P65,Cancer
+MO-99,14119-15-4,P65-MC,Cancer
+HYDRAZINE,302-01-2,P65,Cancer
+MERCAPTOPURINE,6112-76-1,P65,Developmental Toxicity
+"2,3',5-TRICHLOROBIPHENYL (PCB-26)",38444-81-4,P65-MC,"Cancer, Developmental Toxicity"
+VINYL BROMIDE,593-60-2,P65,Cancer
+"2,3',4,4',5,5'-Hexachlorobiphenyl",52663-72-6,P65-MC,"Cancer, Developmental Toxicity"
+1-METHYL-1-NITROSO-3-NITROGUANIDINE,70-25-7,P65,Cancer
+"2,3,4'-Trichlorobiphenyl",38444-85-8,P65-MC,"Cancer, Developmental Toxicity"
+COKE OVEN EMISSIONS,1066.0,P65,Cancer
+STERIGMATOCYSTIN,10048-13-2,P65,Cancer
+CHLORDIAZEPOXIDE,58-25-3,P65,Developmental Toxicity
+"2,3,4',6-Tetrachlorobiphenyl",52663-58-8,P65-MC,"Cancer, Developmental Toxicity"
+"2',3,4,5,5'-PENTACHLOROBIPHENYL (PCB-124)",70424-70-3,P65-MC,"Cancer, Developmental Toxicity"
+FE-59,14596-12-4,P65-MC,Cancer
+CAESIUM-137,10045-97-3,P65-MC,Cancer
+CYCLOHEXIMIDE,66-81-9,P65,Developmental Toxicity
+I-130,14914-02-4,P65-MC,Cancer
+"FENOXAPROP ETHYL(2-(4-((6-CHLORO-2-BENZOXAZOLYEN)OXY)PENOXY)PROPANIC ACID,ETHYL ESTER)",66441-23-4,P65,Developmental Toxicity
+N-NITROSO-N-METHYLUREA,684-93-5,P65,Cancer
+CARBON TETRACHLORIDE,56-23-5,P65,Cancer
+"DDE, O,P'",3424-82-6,P65-MC,Cancer
+PACLITAXEL,33069-62-4,P65,"Reproductive Toxicity, Developmental Toxicity"
+TESTOSTERONE ENANTHATE,315-37-7,P65,Developmental Toxicity
+DIMETHYLVINYLCHLORIDE,513-37-1,P65,Cancer
+VINYL CHLORIDE,75-01-4,P65,Cancer
+CYCLOPHOSPHAMIDE,50-18-0,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+AIREDALE BLUE D,2429-74-5,P65,Cancer
+"(1,1'-BIPHENYL)-4,4'-DIAMINE, 3,3'-DIMETHYL-",119-93-7,P65,Cancer
+Aroclor 1210,147601-87-4,P65-MC,"Cancer, Developmental Toxicity"
+BISMUTH-214,14733-03-0,P65-MC,Cancer
+CIANURO DE NIQUEL,557-19-7,P65-MC,Cancer
+"CHLORINATED PARAFINS (AVERAGE CHAIN LENGTH, C12;   APPROXIMATELY 60 PERCENT CHLORINE BY WEIGHT)",108171-26-2,P65,Cancer
+METHAM SODIUM,137-42-8,P65,"Cancer, Developmental Toxicity"
+RU-106+D,13967-48-1(+D),P65-MC,Cancer
+C-15,15929-23-4,P65-MC,Cancer
+5-AZACYTIDINE,320-67-2,P65,Cancer
+PA-234,15100-28-4,P65-MC,Cancer
+4-Amino-2-nitrophenol,119-34-6,P65,Cancer
+K-42,14378-21-3,P65-MC,Cancer
+ETHYL ACRYLATE,140-88-5,P65,Cancer
+prednisolone sodium phosphate,125-02-0,P65,Developmental Toxicity
+1-[(5-NITROFURFURYLIDENE)-AMINO]-2-IMIDAZOLIDINONE,555-84-0,P65,Cancer
+"2,3,3',6-Tetrachlorobiphenyl",74472-33-6,P65-MC,"Cancer, Developmental Toxicity"
+BENZO(B)FLUORANTHENE,205-99-2,P65,Cancer
+PENTACHLOROPHENOL,87-86-5,P65,Cancer
+AFLATOXINS,1402-68-2,P65,Cancer
+SN-121,14683-06-8,P65-MC,Cancer
+LEAD CHROMATE,7758-97-6,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+"2,3-DINITROTOLUENE",602-01-7,P65-MC,Reproductive Toxicity
+MERCURY,7439-97-6,P65,Developmental Toxicity
+BERYLLIUM OXIDE,1304-56-9,P65-MC,Cancer
+"2,2',3,4,4',5,6,6'-Octachlorobiphenyl",74472-52-9,P65-MC,"Cancer, Developmental Toxicity"
+NALIDIXIC ACID,389-08-2,P65,Cancer
+DIAZOXIDE,364-98-7,P65,Developmental Toxicity
+AG-108M,14391-65-2(m),P65-MC,Cancer
+GD-153,14276-65-4,P65-MC,Cancer
+BA-139,14378-25-7,P65-MC,Cancer
+GALLIUM ARSENIDE,1303-00-0,P65-MC,"Cancer, Developmental Toxicity"
+NIMODIPINE,66085-59-4,P65,Developmental Toxicity
+2-Aminofluorene,153-78-6,P65,Cancer
+N-NITROSODIPHENYLAMINE,86-30-6,P65,Cancer
+CO-58M,13981-38-9(m),P65-MC,Cancer
+POLYGEENAN,53973-98-1,P65,Cancer
+NIRIDAZOLE,61-57-4,P65,Cancer
+LACTOFEN,77501-63-4,P65,Cancer
+CHLORCYCLIZINE HYDROCHLORIDE,1620-21-9,P65,Developmental Toxicity
+ETHYLENE THIOUREA,96-45-7,P65,"Cancer, Developmental Toxicity"
+"2,3',4',5',6-Pentachlorobiphenyl",74472-39-2,P65-MC,"Cancer, Developmental Toxicity"
+TRICYCLOHEXYLTIN HYDROXIDE,13121-70-5,P65,Developmental Toxicity
+ACRYLAMIDE,79-06-1,P65,Cancer
+LASIOCARPINE,303-34-4,P65,Cancer
+P-NITROCHLOROBENZENE,100-00-5,P65,Cancer
+NICKEL SULFATE,7786-81-4,P65-MC,Cancer
+"2,2',3,3',4,5,6'-Heptachlorobiphenyl",38411-25-5,P65-MC,"Cancer, Developmental Toxicity"
+"2,4-DB",94-82-6,P65,Reproductive Toxicity
+RH-105,14913-89-4,P65-MC,Cancer
+SR-82,14809-50-8,P65-MC,Cancer
+"2,3',4-Trichlorobiphenyl",55712-37-3,P65-MC,"Cancer, Developmental Toxicity"
+PU-241+D,14119-32-5(+D),P65-MC,Cancer
+"1,1,2,2-TETRAFLUOROETHYLENE",116-14-3,P65,Cancer
+RB-87,13982-13-3,P65-MC,Cancer
+NETILMICIN SULFATE,56391-57-2,P65,Developmental Toxicity
+METHYLTHIOURACIL,56-04-2,P65,Cancer
+"1,2,3,7,8-PENTACHLORODIBENZO-P-DIOXIN",40321-76-4,P65-MC,Cancer
+TRIBROMOMETHANE,75-25-2,P65,Cancer
+METHOTREXATE SODIUM,15475-56-6,P65,Developmental Toxicity
+ASPHALT (PETROLEUM) FUMES,8052-42-4,P65,Cancer
+"2-AMINO-DIPYRIDO(1,2-A:3',2'-D)-IMIDAZOLE",67730-10-3,P65,Cancer
+"1,2,3,4,7,8-HEXACHLORODIBENZO-P-DIOXIN",39227-28-6,P65-MC,Cancer
+PD-100,15690-69-4,P65-MC,Cancer
+"4,4'-DIAMINODIPHENYL SULFIDE",139-65-1,P65,Cancer
+SB-125,14234-35-6,P65-MC,Cancer
+NITROBENZENE,98-95-3,P65,Cancer
+Sulindac,38194-50-2,P65,"Reproductive Toxicity, Developmental Toxicity"
+"NICKEL SULFIDE ROASTING, FUME & DUST, AS NI",7440-02-0(FD),P65-MC,Cancer
+CADMIUM ACETATE,543-90-8,P65-MC,Cancer
+"1,2,3,4,6,7,8-HEPTACHLORODIBENZOFURAN",67562-39-4,P65-MC,Cancer
+"1,1,2-TRICHLOROETHANE",79-00-5,P65,Cancer
+DILTIAZEM HYDROCHLORIDE,33286-22-5,P65,Developmental Toxicity
+METIRAM,9006-42-2,P65,"Cancer, Developmental Toxicity"
+RA-226+D,13982-63-3(+D),P65-MC,Cancer
+MERCURIC THIOCYANATE,592-85-8,P65-MC,Developmental Toxicity
+SB-129,14331-88-5,P65-MC,Cancer
+AZATHIOPRINE,446-86-6,P65,"Cancer, Developmental Toxicity"
+3-METHYLCHLORANTHRENE,56-49-5,P65,Cancer
+"FLUOROACETIC ACID, SODIUM SALT",62-74-8,P65,Reproductive Toxicity
+BERYLLIUM SULFATE,13510-49-1,P65-MC,Cancer
+ACETOCHLOR,34256-82-1,P65,Cancer
+TC-96M,14808-44-7(m),P65-MC,Cancer
+Aroclor 1250,165245-51-2,P65-MC,"Cancer, Developmental Toxicity"
+ASBESTOS (FRIABLE),1332-21-4,P65,Cancer
+"URANIUM, ISOTOPE OF MASS 234",13966-29-5,P65-MC,Cancer
+SB-125+D,14234-35-6(+D),P65-MC,Cancer
+"2,2',3,3',4,4',5-HEPTACHLOROBIPHENYL",35065-30-6,P65-MC,"Cancer, Developmental Toxicity"
+RADIUM-228,15262-20-1,P65-MC,Cancer
+SC-46,13967-63-0,P65-MC,Cancer
+CM-242,15510-73-3,P65-MC,Cancer
+"CIS-1,3-DICHLOROPROPENE",10061-01-5,P65-MC,Cancer
+BRACKEN FERN,BML000,P65,Cancer
+Nifedipine,21829-25-4,P65,"Reproductive Toxicity, Developmental Toxicity"
+POLYCHLORINATED DIBENZO-P-DIOXINS,PCDD,P65,Cancer
+MX (3-chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone),77439-76-0,P65,Cancer
+"4,4'-DIAMINODIPHENYL ETHER",101-80-4,P65,Cancer
+LEAD COMPOUNDS,LCT000,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+TB-158,15759-55-4,P65-MC,Cancer
+THIOPHANATE-METHYL,23564-05-8,P65,Reproductive Toxicity
+CM-245,15621-76-8,P65-MC,Cancer
+"1,2,3,4,6,7,8-HEPTACHLORODIBENZO-P-DIOXIN",35822-46-9,P65-MC,Cancer
+"2,3,4,4',5,6-Hexachlorobiphenyl",41411-63-6,P65-MC,"Cancer, Developmental Toxicity"
+"2,3,3',4',5,5'-Hexachlorobiphenyl",39635-34-2,P65-MC,"Cancer, Developmental Toxicity"
+N-NITROSOMETHYLETHYLAMINE,10595-95-6,P65,Cancer
+CA-45,13966-05-7,P65-MC,Cancer
+"2,2',3,4',5,6-Hexachlorobiphenyl",68194-13-8,P65-MC,"Cancer, Developmental Toxicity"
+ATTAPULGITE,12174-11-7,P65,Cancer
+NB-97,18496-04-3,P65-MC,Cancer
+N-NITROSODI-N-BUTYLAMINE,924-16-3,P65,Cancer
+PROMETHIUM-149,15765-31-8,P65-MC,Cancer
+MELPHALAN,148-82-3,P65,"Cancer, Developmental Toxicity"
+NITROMETHANE,75-52-5,P65,Cancer
+MICHLER'S KETONE,90-94-8,P65,Cancer
+RB-82,14391-63-0,P65-MC,Cancer
+SN-126,15832-50-5,P65-MC,Cancer
+AROCLOR 1221,11104-28-2,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',5,5',6-Heptachlorobiphenyl",52663-67-9,P65-MC,"Cancer, Developmental Toxicity"
+BA-131,14914-75-1,P65-MC,Cancer
+"2,4,5-TRICHLOROBIPHENYL (PCB-29)",15862-07-4,P65-MC,"Cancer, Developmental Toxicity"
+2-NITROFLOURENE,607-57-8,P65,Cancer
+Carbamazepine,298-46-4,P65,Developmental Toxicity
+"DIBENZO[A,H]PYRENE",189-64-0,P65,Cancer
+ANILINE HYDROCHLORIDE,142-04-1,P65,Cancer
+AZASERINE,115-02-6,P65,Cancer
+"2,2-DIMETHYL-4,4-METHYLENEDIANILINE",838-88-0,P65,Cancer
+DIISOPROPYL SULFATE,392186.0,P65,Cancer
+"2,2',3,5,5',6-Hexachlorobiphenyl",52663-63-5,P65-MC,"Cancer, Developmental Toxicity"
+"TECHNICAL GRADE 2,4 & 2,6 DINITROTOLUENE",EDF-210,P65,"Cancer, Reproductive Toxicity"
+"2,2',3,5,6'-Pentachlorobiphenyl",73575-55-0,P65-MC,"Cancer, Developmental Toxicity"
+"DIBENZ(A,H)ANTHRACENE",53-70-3,P65,Cancer
+ALPHA-NAPHTHYLAMINE,134-32-7,P65,Cancer
+NICKEL ACETATE,373-02-4,P65,Cancer
+NP-236A,15700-36-4(a),P65-MC,Cancer
+AROCLOR 1248,12672-29-6,P65-MC,"Cancer, Developmental Toxicity"
+ARYL MERCURY COMPOUNDS,7439-97-6(Aryl),P65-MC,Developmental Toxicity
+CAFFEIC ACID,331-39-5,P65,Cancer
+ZN-69M,13982-23-5(m),P65-MC,Cancer
+AG-109M,14378-38-2(m),P65-MC,Cancer
+PROPYLENE OXIDE,75-56-9,P65,Cancer
+GOSERELIN ACETATE,65807-02-5,P65,"Reproductive Toxicity, Developmental Toxicity"
+"2,2',4',5-TETRABROMOBIPHENYL",EDF-323,P65-MC,"Cancer, Developmental Toxicity"
+CM-243+D,15757-87-6(+D),P65-MC,Cancer
+"2,2',3,4,4',6-Hexachlorobiphenyl",56030-56-9,P65-MC,"Cancer, Developmental Toxicity"
+LINURON,330-55-2,P65,Developmental Toxicity
+PLUTONIUM-238,13981-16-3,P65-MC,Cancer
+"P-A,A,A-TETRACHLOROTOLUENE",5216-25-1,P65,Cancer
+PROCYMIDONE,32809-16-8,P65,Cancer
+NICKEL (II) CHLORIDE,37211-05-5,P65-MC,Cancer
+NONA-PCB,53742-07-7,P65-MC,"Cancer, Developmental Toxicity"
+TETRACHLORODIBENZOFURAN,30402-14-3,P65-MC,Cancer
+"IQ(2-AMINO-3-METHYLIMIDAZO[4,5-F]QUINOLINE)",76180-96-6,P65,Cancer
+NICKEL TRIOXIDE,1314-06-3,P65-MC,Cancer
+ANILINE,62-53-3,P65,Cancer
+CHENODIOL,474-25-9,P65,Developmental Toxicity
+"4,4'-DICHLOROBIPHENYL (PCB-15)",2050-68-2,P65-MC,"Cancer, Developmental Toxicity"
+PROCARBAZINE,671-16-9,P65,Cancer
+PHENOLPHTHALEIN,77-09-8,P65,Cancer
+AROCLOR 1242,53469-21-9,P65-MC,"Cancer, Developmental Toxicity"
+MN-56,14681-52-8,P65-MC,Cancer
+SM-147,14392-33-7,P65-MC,Cancer
+"2,2'-DICHLOROBIPHENYL (PCB-4)",13029-08-8,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',4,5,6-Heptachlorobiphenyl",68194-16-1,P65-MC,"Cancer, Developmental Toxicity"
+"2,2-DICHLOROACETIC ACID",79-43-6,P65,Cancer
+RA-225,13981-53-8,P65-MC,Cancer
+CREOSOTES,8001-58-9,P65,Cancer
+NP-240M,15690-84-3(m),P65-MC,Cancer
+"3,3'-DICHLOR-4,4'-DIAMINO-DIPHENYLAETHER",28434-86-8,P65,Cancer
+"2,3,4,5-TETRACHLOROBIPHENYL (PCB-61)",33284-53-6,P65-MC,"Cancer, Developmental Toxicity"
+"2,3,3',4',5'-Pentachlorobiphenyl",76842-07-4,P65-MC,"Cancer, Developmental Toxicity"
+"2,2'3,3',5-PENTACHLOROBIPHENYL (PCB-83)",60145-20-2,P65-MC,"Cancer, Developmental Toxicity"
+BIS(2-CHLOROETHYL) ETHER,111-44-4,P65,Cancer
+2-METHYL-1-NITROANTHRAQUINONE (OF UNCERTAIN       PURITY),129-15-7,P65,Cancer
+"1,3-DIBROMO-2,2-DIMETHYLOLPROPANE",3296-90-0,P65,Cancer
+"2,2',3,4,4',6'-Hexachlorobiphenyl",59291-64-4,P65-MC,"Cancer, Developmental Toxicity"
+DIHYDROSAFROLE,94-58-6,P65,Cancer
+ETHINYLESTRADIOL,57-63-6,P65,Cancer
+CS-138,15758-29-9,P65-MC,Cancer
+PR-144,14119-05-2,P65-MC,Cancer
+NICKEL (III) HYDROXIDE,12125-56-3,P65-MC,Cancer
+IRON DEXTRAN,9004-66-4,P65,Cancer
+"2,3,3',5'-Tetrachlorobiphenyl",41464-49-7,P65-MC,"Cancer, Developmental Toxicity"
+DY-166,15840-01-4,P65-MC,Cancer
+DIMETHYL MERCURY,593-74-8,P65-MC,"Cancer, Developmental Toxicity"
+OS-193,16057-77-5,P65-MC,Cancer
+1-(2-CHLOROETHYL)-3-(4-METHYLCYCLOHEXYL)-1-NITROSOUREA (METHYL CCNU),13909-09-6,P65,Cancer
+M-DINITROBENZENE,99-65-0,P65,Reproductive Toxicity
+FR-223,15756-98-6,P65-MC,Cancer
+"N,N-BIS(2-CHLOROETHYL)-2-NAPHTHYLAMINE (CHLORNAPAZINE)",494-03-1,P65,Cancer
+BI-206,15776-19-9,P65-MC,Cancer
+"1,1-DICHLOROETHANE",75-34-3,P65,Cancer
+OXYDIAZON,19666-30-9,P65,"Cancer, Developmental Toxicity"
+"2,2',5,6'-TETRACHLOROBIPHENYL (PCB-53)",41464-41-9,P65-MC,"Cancer, Developmental Toxicity"
+CAPTAN,133-06-2,P65,Cancer
+GA-67,14119-09-6,P65-MC,Cancer
+BENZO[J]FLUORANTHENE,205-82-3,P65,Cancer
+CARBAZOLE,86-74-8,P65,Cancer
+CS-136,14234-29-8,P65-MC,Cancer
+"2,5-DIAMINOTOLUENE",95-70-5,P65-MC,Cancer
+CHLOROFORM,67-66-3,P65,Cancer
+FLURAZEPAM HYDROCHLORIDE,1172-18-5,P65,Developmental Toxicity
+Cidofovir,113852-37-2,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+URACIL MUSTARD,66-75-1,P65,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+TRITIUM,10028-17-8,P65-MC,Cancer
+"2,2',3,3',5,5'-Hexachlorobiphenyl",35694-04-3,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,4,4',5,5'-HEPTACHLOROBIPHENYL (PCB-180)",35065-29-3,P65-MC,"Cancer, Developmental Toxicity"
+IN-114M,13981-55-0(m),P65-MC,Cancer
+TL-208,14913-50-9,P65-MC,Cancer
+CREOSOTE OIL (DERIVED FROM ANY SOURCE),70321-79-8,P65-MC,Cancer
+N-NITROSOPYRROLIDINE,930-55-2,P65,Cancer
+LEAD SULFIDE,1314-87-0,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+LEAD STEARATE,7428-48-0,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+INORGANIC ARSENIC COMPOUNDS,EDF-222,P65,"Cancer, Developmental Toxicity"
+SR-92,14928-29-1,P65-MC,Cancer
+MITOXANTRONE HYDROCHLORIDE,70476-82-3,P65,Developmental Toxicity
+CHROMATES,EDF-224,P65-MC,Cancer
+DDT (TOTAL),EDF-229,P65-MC,Cancer
+NAFENOPIN,3771-19-5,P65,Cancer
+I-134,14914-27-3,P65-MC,Cancer
+AMIKACIN SULFATE,39831-55-5,P65,Developmental Toxicity
+NORETHISTERONE,68-22-4,P65,"Cancer, Developmental Toxicity"
+HEPTACHLOR,76-44-8,P65,"Cancer, Developmental Toxicity"
+CADMIUM COMPOUNDS,CAE750,P65,Cancer
+CYANAZINE,21725-46-2,P65,Developmental Toxicity
+"2,3-DICHLOROBIPHENYL (PCB-5)",16605-91-7,P65-MC,"Cancer, Developmental Toxicity"
+PT-193,15735-70-3,P65-MC,Cancer
+ESTROPIPATE,7280-37-7,P65,"Cancer, Developmental Toxicity"
+CA-47,1439-99-2,P65-MC,Cancer
+SB-126,15756-32-8,P65-MC,Cancer
+"2,2',3,3',4,4',5,5',6,6'-DECACHLOROBIPHENYL (PCB-209)",2051-24-3,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',4,4',6,6'-Octachlorobiphenyl",33091-17-7,P65-MC,"Cancer, Developmental Toxicity"
+PT-193M,15735-70-3(m),P65-MC,Cancer
+"2,3,3',5,5',6-Hexachlorobiphenyl",74472-46-1,P65-MC,"Cancer, Developmental Toxicity"
+ZINC CHROMATES,EDF-130,P65-MC,Cancer
+RU-103,13968-53-1,P65-MC,Cancer
+ETRETINATE,54350-48-0,P65,Developmental Toxicity
+NICKEL DIOXIDE,12035-36-8,P65-MC,Cancer
+SB-124,14683-10-4,P65-MC,Cancer
+IR-194,14158-35-1,P65-MC,Cancer
+"2,2',4,5,6'-Pentachlorobiphenyl",68194-06-9,P65-MC,"Cancer, Developmental Toxicity"
+TRIS(2-CHLOROETHYL) PHOSPHATE,115-96-8,P65,Cancer
+BENZ(A)ANTHRACENE,56-55-3,P65,Cancer
+"DICHLORODIBENZOFURANS, TOTAL",EDF-353,P65-MC,Cancer
+"TRICHLORODIBENZOFURANS, TOTAL",EDF-352,P65-MC,Cancer
+"TRICHLORODIBENZO-P-DIOXINS, TOTAL",EDF-351,P65-MC,Cancer
+"DICHLORODIBENZO-P-DIOXINS, TOTAL",EDF-350,P65-MC,Cancer
+Haloperidol,52-86-8,P65,"Reproductive Toxicity, Developmental Toxicity"
+C.I. ACID RED 114,6459-94-5,P65,Cancer
+THORIUM,7440-29-1,P65-MC,Cancer
+HEPTACHLORODIBENZO-P-DIOXINS,EDF-354,P65-MC,Cancer
+"2,2',3,3',4,4',5,5'-OCTACHLOROBIPHENYL (PCB-194)",35694-08-7,P65-MC,"Cancer, Developmental Toxicity"
+"3,3',4,5'-Tetrachlorobiphenyl",41464-48-6,P65-MC,"Cancer, Developmental Toxicity"
+NICKEL (II) HYDROXIDE,12054-48-7,P65,Cancer
+"3,4-DINITROTOLUENE",610-39-9,P65-MC,Reproductive Toxicity
+BA-133,13981-41-4,P65-MC,Cancer
+N-ETHYL-N-NITROSOUREA,759-73-9,P65,Cancer
+BENZPHETAMINE HYDROCHLORIDE,5411-22-3,P65,Developmental Toxicity
+CHLORDIMEFORM,6164-98-3,P65,Cancer
+PLUTONIUM 239,15117-48-3,P65-MC,Cancer
+"2,3',6-Trichlorobiphenyl",38444-76-7,P65-MC,"Cancer, Developmental Toxicity"
+Y-91M,14234-24-3(m),P65-MC,Cancer
+COPPER ARSENATE,10103-61-4,P65-MC,"Cancer, Developmental Toxicity"
+ZINC CHROMATE WITH ZINC HYDROXIDE AND CHROMIUM OXIDE (9:1),37300-23-5,P65-MC,Cancer
+TETRACHLOROBIPHENYL,26914-33-0,P65-MC,"Cancer, Developmental Toxicity"
+N-NITROSOMETHYLVINYLAMINE,4549-40-0,P65,Cancer
+SODIUM ARSENATE (ASH3O4.XNA),7631-89-2,P65-MC,"Cancer, Developmental Toxicity"
+CADMIUM NITRATE,10325-94-7,P65-MC,Cancer
+flurbiprofen,5104-49-4,P65,"Reproductive Toxicity, Developmental Toxicity"
+"2,4,4',5-Tetrachlorobiphenyl (PCB 74)",32690-93-0,P65-MC,"Cancer, Developmental Toxicity"
+COBALT-60,10198-40-0,P65-MC,Cancer
+CLOMIPHENE CITRATE,50-41-9,P65,Developmental Toxicity
+ANTIMONY TRIOXIDE,1309-64-4,P65,Cancer
+PHENYL GLYCIDYL ETHER,122-60-1,P65,Cancer
+ACTINOMYCIN D,50-76-0,P65,"Cancer, Developmental Toxicity"
+"3,4-DIAMINOTOLUENE",496-72-0,P65-MC,Cancer
+SODIUM CHROMATE,2146108.0,P65-MC,Cancer
+POLYCHLORINATED DIBENZOFURANS,136677-10-6,P65-MC,Cancer
+IFOSFAMIDE,3778-73-2,P65,Developmental Toxicity
+CHLORAMPHENICOL,56-75-7,P65,Cancer
+TRIADIMEFON,43121-43-3,P65,"Reproductive Toxicity, Developmental Toxicity"
+XE-138,15751-81-2,P65-MC,Cancer
+"1,2,3,6,7,8-HEXACHLORODIBENZOFURAN",57117-44-9,P65-MC,Cancer
+"TOLUENE-2,4-DIISOCYANATE",584-84-9,P65-MC,Cancer
+TRIS(1-AZIRIDINYL) PHOSPHINE SULFIDE (THIOTEPA),52-24-4,P65,Cancer
+TH-231,14932-40-2,P65-MC,Cancer
+BERYLLIUM CHLORIDE,7787-47-5,P65-MC,Cancer
+"2,3,3',4,5',6-Hexachlorobiphenyl",74472-43-8,P65-MC,"Cancer, Developmental Toxicity"
+"1,2,3-TRICHLOROPROPANE",96-18-4,P65,Cancer
+"1-EPOXYETHYL-3,4-EPIXYCYCLOHEXANE",106-87-6,P65,Cancer
+"2,2',3,3',4,4',5,5',6-NONACHLOROBIPHENYL (PCB-206)",40186-72-9,P65-MC,"Cancer, Developmental Toxicity"
+METHYL CARBAMATE,598-55-0,P65,Cancer
+EU-154,15585-10-1,P65-MC,Cancer
+DIETHYL SULFATE,64-67-5,P65,Cancer
+2-NITROANISOLE,91-23-6,P65,Cancer
+"2,3,3',4',6-PENTACHLOROBIPHENYL (PCB-110)",38380-03-9,P65-MC,"Cancer, Developmental Toxicity"
+TL-209,15690-73-0,P65-MC,Cancer
+HC BLUE 1,2784-94-3,P65,Cancer
+"2,3,5-Trichlorobiphenyl",55720-44-0,P65-MC,"Cancer, Developmental Toxicity"
+P-32,14596-37-3,P65-MC,Cancer
+METHAZOLE,20354-26-1,P65,Developmental Toxicity
+AC-225,14265-85-1,P65-MC,Cancer
+Aroclor 1231,37234-40-5,P65-MC,"Cancer, Developmental Toxicity"
+DIENESTROL,84-17-3,P65,Cancer
+TEMAZEPAM,846-50-4,P65,Developmental Toxicity
+1-AMINO-2-METHYLANTHRAQUINONE,82-28-0,P65,Cancer
+(DIBUTYLDITHIOCARBAMATO)NICKEL(II),13927-77-0,P65-MC,Cancer
+LEAD FLUORIDE,7783-46-2,P65-MC,"Cancer, Reproductive Toxicity, Developmental Toxicity"
+"1,2,3,4,6,7,8,9-OCTACHLORODIBENZOFURAN",39001-02-0,P65-MC,Cancer
+CE-143,14119-19-8,P65-MC,Cancer
+XE-133,14932-42-4,P65-MC,Cancer
+"1,3-DICHLOROPROPENE AND 1,2-DICHLOROPROPANE MIXTURE",8003-19-8,P65-MC,Cancer
+METHYL HYDRAZINE,60-34-4,P65,Cancer
+"2,2',3,4',5-Pentachlorobiphenyl",68194-07-0,P65-MC,"Cancer, Developmental Toxicity"
+FIREMASTER FF-1,67774-32-7,P65-MC,"Cancer, Developmental Toxicity"
+TOBRAMYCIN SULFATE,49842-07-1,P65,Developmental Toxicity
+"2,2',3,5-Tetrachlorobiphenyl",70362-46-8,P65-MC,"Cancer, Developmental Toxicity"
+"2,2',3,3',4,5,6,6'-Octachlorobiphenyl",52663-73-7,P65-MC,"Cancer, Developmental Toxicity"
+"2,3,3'-TRICHLOROBIPHENYL (PCB-20)",38444-84-7,P65-MC,"Cancer, Developmental Toxicity"
